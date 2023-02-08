@@ -16,6 +16,10 @@ JBChainlinkV3PriceFeed: [`0x87Ee2F4b8eE8F4C79523f36fEcBb5f76B23e7d6F`](https://e
 
 JBController: [`0xFFdD70C318915879d5192e8a0dcbFcB0285b3C98`](https://etherscan.io/address/0xFFdD70C318915879d5192e8a0dcbFcB0285b3C98)
 
+JBController v3.0.1: [`0xA139D37275d1fF7275e6F33821898934Bc8Cb7B6`](https://etherscan.io/address/0xA139D37275d1fF7275e6F33821898934Bc8Cb7B6)
+
+JBController v3.1: [`0x32834829927D872869918e5F415f9732bD7b6768`](https://etherscan.io/address/0x32834829927D872869918e5F415f9732bD7b6768)
+
 JBCurrencies: [`0xFf3959118dF1a391F77841346c6857Eb37A55A50`](https://etherscan.io/address/0xFf3959118dF1a391F77841346c6857Eb37A55A50)
 
 JBDirectory: [`0x65572FB928b46f9aDB7cfe5A4c41226F636161ea`](https://etherscan.io/address/0x65572FB928b46f9aDB7cfe5A4c41226F636161ea)
@@ -49,6 +53,10 @@ JBTokenStore: [`0x6FA996581D7edaABE62C15eaE19fEeD4F1DdDfE7`](https://etherscan.i
 JBChainlinkV3PriceFeed: [`0x47C6072ccDb899C016ED07ae8aEb7b2cfFe3C82e`](https://goerli.etherscan.io/address/0x47C6072ccDb899C016ED07ae8aEb7b2cfFe3C82e)
 
 JBController: [`0x7Cb86D43B665196BC719b6974D320bf674AFb395`](https://goerli.etherscan.io/address/0x7Cb86D43B665196BC719b6974D320bf674AFb395)
+
+JBController v3.0.1: [`0x696f8175E114C5C89248Fb254185Df3Df4cD03f3`](https://goerli.etherscan.io/address/0x696f8175E114C5C89248Fb254185Df3Df4cD03f3)
+
+JBController v3.1: [`0xd537eBc16129996f96C1c8D597917eda01782049`](https://goerli.etherscan.io/address/0xd537eBc16129996f96C1c8D597917eda01782049)
 
 JBCurrencies: [`0x1ABea264425cD8e65315e34A50F9C83bC3A43a50`](https://goerli.etherscan.io/address/0x1ABea264425cD8e65315e34A50F9C83bC3A43a50)
 
