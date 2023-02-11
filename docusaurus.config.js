@@ -169,6 +169,10 @@ const config = {
               to: 'https://juicebox.money',
             },
             {
+              label: 'Contact us',
+              to: 'https://juicebox.money/contact',
+            },
+            {
               label: 'GitHub',
               to: 'https://github.com/jbx-protocol',
             },

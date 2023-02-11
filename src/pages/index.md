@@ -13,7 +13,7 @@ hide_table_of_contents: true
         <h1 style={{fontSize: "3rem"}}>Juicebox Docs</h1>
         <p style={{fontSize: "2rem"}}>Fund your thing.</p>
         <a class="button button--primary" href="/user/" style={{marginBottom: "5px"}}>Learn the basics</a>
-        <a class="button button--link" href="https://juicebox.money" style={{marginBottom: "5px"}}>Use Juicebox →</a>
+        <a class="button button--link" href="https://juicebox.money/contact" style={{marginBottom: "5px"}}>Contact onboarding →</a>
       </div>
     </div>
   </div>
@@ -85,7 +85,7 @@ hide_table_of_contents: true
 <footer class="footer">
   <div class="container container--fluid">
     <div class="footer__links">
-      <a class="footer__link-item" href="/tos/">Terms of Service</a>
+      <a class="footer__link-item" href="https://juicebox.money/contact">Contact</a>
       <span class="footer__link-separator">&middot;</span>
       <a class="footer__link-item" href="https://discord.gg/juicebox">Discord</a>
       <span class="footer__link-separator">&middot;</span>
@@ -94,6 +94,8 @@ hide_table_of_contents: true
       <a class="footer__link-item" href="/user/brand-kit/">Brand Kit</a>
       <span class="footer__link-separator">&middot;</span>
       <a class="footer__link-item" href="/dao/contribute/">Contribute</a>
+      <span class="footer__link-separator">&middot;</span>
+      <a class="footer__link-item" href="/tos/">Terms of Service</a>
     </div>
     <div>Made by <a href="https://juicebox.money/p/juicebox">Juicebox DAO</a>.</div>
   </div>

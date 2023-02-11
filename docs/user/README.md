@@ -3,6 +3,10 @@ title: Start Here
 sidebar_position: 1
 ---
 
+:::tip
+Can't find what you need? [Contact onboarding](https://juicebox.money/contact).
+:::
+
 #### Welcome to the Juicebox User Docs!
 
 Juicebox is a **programmable crypto funding protocol** with very flexible parameters. You can use it as a crypto-native replacement for platforms like Kickstarter, Patreon, Gofundme, or even as an alternative to venture capital.
@@ -17,7 +21,7 @@ As the project creator, you have powerful controls over each one of these mechan
 
 #### How do I start?
 
-Join the [JuiceboxDAO Discord](https://discord.gg/juicebox)—DAO members will answer your questions and help you to deploy your project. Or, if you feel confident, you can [deploy your project now](https://juicebox.money/create)! If you have questions about project parameters, check the [Configuration Reference](configuration/).
+[Contact us](https://juicebox.money/contact), or join the [JuiceboxDAO Discord](https://discord.gg/juicebox) — DAO members will answer your questions and help you to deploy your project. Or, if you feel confident, you can [deploy your project now](https://juicebox.money/create)! If you have questions about project parameters, check the [Configuration Reference](configuration/).
 
 We also have a [Goerli Testnet version of Juicebox](https://goerli.juicebox.money). If you need Goerli ETH, ask in the [JuiceboxDAO Discord](https://discord.gg/juicebox).
 

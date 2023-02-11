@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 
 :::tip
-If you prefer videos, watch the [project creation tutorial](https://www.youtube.com/watch?v=2s2OyxG_rvo). If you need help, ask in the [Juicebox Discord](https://discord.gg/juicebox).
+If you prefer videos, watch the [project creation tutorial](https://www.youtube.com/watch?v=2s2OyxG_rvo). If you need help, [contact onboarding](https://juicebox.money/contact).
 :::
 
 Some things to know:
