@@ -63,8 +63,8 @@ Ken said they would be making announcements about this next week, by posting on 
 
 Lexicon Devils will be collaborating with [Emanate](https://twitter.com/EmanateOfficial) to hold a new Forming event on Feb. 17th. The RSVP to this event is open now at [the Forming webpage](https://forming.lexicondevils.xyz/).
 
-## March Squad by STVG
+## Merch Squad by STVG
 
-STVG was wondering if folks were interested to purchase the Drippy Long Sleeve on his March Squad project, an experiment for different ways to sell some merchandise related to our ecosystem. 
+STVG was wondering if folks were interested to purchase the Drippy Long Sleeve on his [Merch Squad project](https://slice.so/slicer/2?product=5), an experiment for different ways to sell some merchandise related to our ecosystem. 
 
 ![merch squad by STVG](project_merchsquad.png)
