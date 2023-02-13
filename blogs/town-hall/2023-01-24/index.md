@@ -2,7 +2,7 @@
 slug: 23-01-24
 title: January 24th, 2023
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-fa970c078e21123c4e80993400e638db.webp
+image: https://info.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 

@@ -2,7 +2,7 @@
 slug: 22-11-22
 title: JuiceboxDAO 周会概要 2022 年 11 月 23 日
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-fa970c078e21123c4e80993400e638db.webp
+image: https://info.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 

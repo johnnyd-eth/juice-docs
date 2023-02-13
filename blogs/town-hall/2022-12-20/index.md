@@ -2,7 +2,7 @@
 slug: 22-12-20
 title: December 20, 2022
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-fa970c078e21123c4e80993400e638db.webp
+image: https://info.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 

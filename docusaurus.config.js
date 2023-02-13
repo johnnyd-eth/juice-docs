@@ -117,7 +117,7 @@ const config = {
       maxHeadingLevel: 5,
     },
     mermaid: {
-      theme: { light: "neutral", dark: "forest" },
+      theme: { light: "default", dark: "dark" },
     },
     navbar: {
       logo: {

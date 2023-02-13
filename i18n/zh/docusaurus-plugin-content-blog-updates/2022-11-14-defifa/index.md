@@ -3,7 +3,7 @@ slug: 2022-11-14-defifa
 title: Defifa，2022 年国际足联世界杯的一个 NFT 小游戏
 description: The decentralized World Cup built on Ethereum.
 authors: [jango]
-image: https://info.juicebox.money/assets/images/defifa-banner-b1ddcf3da3ce5e090689bc83a774c470.webp
+image: https://info.juicebox.money/img/townhall.webp
 tags: [defifa, fifa world cup, defi, crypto, ethereum, juicebox, ]
 ---
 
