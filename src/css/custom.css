@@ -7,10 +7,10 @@
 /* You can override the default Infima variables here. */
 
 :root {
-  --ifm-link-color: #18B4C7;
-  --ifm-background-color: #FFFFFF;
-  --ifm-background-surface-color: #F5F4EF;
-  --ifm-color-primary: #18B4C7;
+  --ifm-link-color: #18b4c7;
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #f5f4ef;
+  --ifm-color-primary: #18b4c7;
   --ifm-color-primary-dark: #16a2b3;
   --ifm-color-primary-darker: #13909f;
   --ifm-color-primary-darkest: #117e8b;
@@ -24,15 +24,15 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-link-color: #32C8DB;
-  --ifm-color-primary: #FFB32C;
-  --ifm-color-primary-dark: #FFA80E;
-  --ifm-color-primary-darker: #FEA300;
-  --ifm-color-primary-darkest: #D18600;
-  --ifm-color-primary-light: #FFBE4A;
-  --ifm-color-primary-lighter: #FFC359;
-  --ifm-color-primary-lightest: #FFD386;
+[data-theme="dark"] {
+  --ifm-link-color: #32c8db;
+  --ifm-color-primary: #ffb32c;
+  --ifm-color-primary-dark: #ffa80e;
+  --ifm-color-primary-darker: #fea300;
+  --ifm-color-primary-darkest: #d18600;
+  --ifm-color-primary-light: #ffbe4a;
+  --ifm-color-primary-lighter: #ffc359;
+  --ifm-color-primary-lightest: #ffd386;
 }
 
 html {
@@ -45,6 +45,11 @@ article img {
 }
 
 article iframe {
+  display: block;
+  margin: auto;
+}
+
+article svg {
   display: block;
   margin: auto;
 }
@@ -62,11 +67,12 @@ article iframe {
   padding: 0 var(--ifm-pre-padding);
 }
 
-[data-theme='dark'] .docusaurus-highlight-code-line {
+[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-h4, h5 {
+h4,
+h5 {
   color: var(--ifm-color-primary);
 }
 
@@ -74,12 +80,12 @@ h4, h5 {
   overflow: auto;
 }
 
-.clean-list li{
-    list-style-position: inside;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
-    padding-bottom: 10px;
+.clean-list li {
+  list-style-position: inside;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+  padding-bottom: 10px;
 }
 
-[data-theme='dark'] .clean-list li{
-    border-bottom: 1px solid rgba(254, 186, 174, 0.3);
+[data-theme="dark"] .clean-list li {
+  border-bottom: 1px solid rgba(254, 186, 174, 0.3);
 }
