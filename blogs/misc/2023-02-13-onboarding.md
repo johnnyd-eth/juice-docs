@@ -51,6 +51,8 @@ flowchart TD
 ### How do we make it happen?
 
 1. We need to set up our CRM. We can start with tables on Notion, and build simple tools to automate with its API. It should track contact information, status (New -> Contacted -> Deployed -> ...), and check-in times.
-2. We need to massively increase the top of our funnel. Right now, we are mostly doing inbound lead generation, and we don't have a great conversion process.
+2. We need to massively increase the top of our funnel. Right now, we are mostly doing inbound lead generation, and we don't have a great conversion process. We could realistically 50x this, ESPECIALLY if we automate it.
 3. We need to minimize barriers to entry. Users should be able to contact via SMS, Twitter, Telegram, Email, Discord, or Instagram. We should have a presence on each of these platforms. We should add a better onboarding flow to juicebox.money for people who don't have a wallet.
 4. We need better resources, especially to help people once they have already deployed their project. We also need to teach people how to use the protocol more effectively, with some type of flowchart for making configuration choices. The configuration guide blog posts are great but too hard to sort through.
+5. To make all of this more efficient, we need to build templates for common user types (YouTuber, blogger, musician, large crowdfund, semi-corporate, web3 startup, NFT project etc.) at each stage of the process. We should have templates for first messages, check-ins, project configuration, various tools like Snapshot/Gnosis Safe, their Discord server, promotion for them, and anything else that may come up.
+6. We need to coordinate and collaborate more effectively. We should have a shared calendar for planning meetings and add relevant info (within CRM).
