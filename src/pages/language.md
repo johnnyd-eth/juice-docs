@@ -31,26 +31,24 @@ These terms are all over the place, but the underlying concepts are relatively s
 
 | Original Phrase | Revised Phrase | Reasoning |
 | --- | --- | --- |
-| Initial Mint Rate | Total Issuance Rate | "Initial" is confusing — you can change this number over time. Should be clear that this is about token issuance. |
-| Contributor Rate | Payer Issuance Rate | "Contributor" is vague. "Issuance" for reason above. |
+| Initial Mint Rate | Token Issuance Rate | "Initial" is confusing — you can change this number over time. Should be clear that this is about token issuance. |
+| Contributor Rate | Payment Issuance Rate | "Contributor" is vague. "Issuance" for reason above. |
 | Reserved Rate | Reserved Issuance Rate | Consistency with two preceding terms. |
 
 ## Permissions
 
-By using the term "Admin", we can convey administrative permissions and create space for `JBOperatorStore` roles.
-
 | Original Phrase | Revised Phrase | Reasoning |
 | --- | --- | --- |
-| Project Owner | Project Admin | Conveys administrative permissions. Also makes it easier to explain operator permissions when/if implemented. We can still use "Project Creators" as a general term. |
-| Project NFT | Admin NFT | To disambiguate with NFT rewards (which should be called Project NFTs). |
-| Token Minting | Admin Token Minting | "Token Minting" is too generic. |
+| Project Owner | Project Owner | Keeping "Owner". We can still use "Project Creators" as a general term. |
+| Project NFT | Owner NFT | To disambiguate with NFT rewards (which should be called Project NFTs). |
+| Token Minting | Owner Token Minting | "Token Minting" is too generic. |
 
 ## Other
 
 | Original Phrase | Revised Phrase | Reasoning |
 | --- | --- | --- |
 | NFTs | Project NFTs | To be consistent with "Project Tokens". |
-| Discount Rate | Issuance Taper/Decay/Reduction Rate | Still figuring out the word choice, but "Discount Rate" has always been confusing and there's no particular reason to use it. |
+| Discount Rate | Issuance Decay Rate | Still figuring out the word choice, but "Discount Rate" has always been confusing and there's no particular reason to use it. "Discount rate" makes people think something will get "cheaper" over time. |
 | Redemption Rate | Redemption Curve | Redemption should be a toggle (which is how 90% of projects use it). If Redemptions are on, you can set a Redemption Curve. This alludes to its underlying technical nature: that of a bonding curve. |
-| Payment Address | Project Payer Address | "Payment Address" is vague. |
+| Payment Address | Project Payment Address | "Payment Address" is vague. |
 
