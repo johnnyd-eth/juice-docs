@@ -50,9 +50,19 @@ flowchart TD
 
 ### How do we make it happen?
 
+#### Outbound
+
+1. We need to massively increase the top of our funnel. Right now, we are mostly doing inbound lead generation, and we don't have a great conversion process. We could realistically 50x this, ESPECIALLY if we automate it.
+2. We need to build templates for common user types (YouTuber, blogger, musician, large crowdfund, semi-corporate, web3 startup, NFT project etc.) for each stage of the process. How do we find them? What do our first messages, check-ins, and project configurations look like? Do we have templates we can send them for various tools like Snapshot/Gnosis Safe, their Discord server, how they should promote their projects, etc?
+
+#### Inbound
+
+1. We need to actually take advantage of things that can generate engagement. Juicenews is a great step, but we should be pumping it way more. We should be Tweeting and Discord announcing every time a cool feature comes out. We should regularly write articles that people want to read, make video versions of those articles, and then cut up those videos for YouTube/TikTok/Instagram.
+2. We need better resources, especially to help people once they have already deployed their project. We also need to teach people how to use the protocol more effectively, with some type of flowchart for making configuration choices. The configuration guide blog posts are great but too hard to sort through.
+3. We need to minimize barriers to entry at every stage of the process. Users should be able to contact us via SMS, Twitter, Telegram, Email, Discord, or Instagram. We should have a presence on each of these platforms. We should add a better onboarding flow to juicebox.money for people who don't have a wallet.
+4. The homepage needs to do a better job of getting people to pay or deploy projects.
+
+#### Process
+
 1. We need to set up our CRM. We can start with tables on Notion, and build simple tools to automate with its API. It should track contact information, status (New -> Contacted -> Deployed -> ...), and check-in times.
-2. We need to massively increase the top of our funnel. Right now, we are mostly doing inbound lead generation, and we don't have a great conversion process. We could realistically 50x this, ESPECIALLY if we automate it.
-3. We need to minimize barriers to entry. Users should be able to contact via SMS, Twitter, Telegram, Email, Discord, or Instagram. We should have a presence on each of these platforms. We should add a better onboarding flow to juicebox.money for people who don't have a wallet.
-4. We need better resources, especially to help people once they have already deployed their project. We also need to teach people how to use the protocol more effectively, with some type of flowchart for making configuration choices. The configuration guide blog posts are great but too hard to sort through.
-5. To make all of this more efficient, we need to build templates for common user types (YouTuber, blogger, musician, large crowdfund, semi-corporate, web3 startup, NFT project etc.) at each stage of the process. We should have templates for first messages, check-ins, project configuration, various tools like Snapshot/Gnosis Safe, their Discord server, promotion for them, and anything else that may come up.
-6. We need to coordinate and collaborate more effectively. We should have a shared calendar for planning meetings and add relevant info (within CRM).
+2. We need to coordinate and collaborate more effectively. We should have a shared calendar for planning meetings and share relevant info/possible leads (within the CRM). There's too much territoriality in our current processes — contributors should be onboarding the users they can onboard the best, not the users that they happened to get in touch with.
