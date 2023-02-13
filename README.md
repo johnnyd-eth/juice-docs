@@ -14,42 +14,40 @@
 
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[Juice Docs](https://info.juicebox.money) contains documentation for the [Juicebox protocol](https://github.com/jbx-protocol/juice-contracts-v3) and [juicebox.money](https://juicebox.money). Juice Docs is built with [Docusaurus 2](https://docusaurus.io/).
 
 ### Installation
 
-```
-$ yarn
+To run Juice Docs, you need to have [yarn](https://yarnpkg.com/) installed.
+
+Clone with:
+```bash
+git clone https://github.com/jbx-protocol/juice-docs.git && cd juice-docs
 ```
 
-### Local Development
-
+And install with:
+```bash
+yarn
 ```
-$ yarn start
+
+Start a local development server with:
+```bash
+yarn start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+Build with:
+```bash
+yarn build
 ```
 
-Not using SSH:
+This command generates static content into the `build` directory and can be served using any static contents hosting service. We're hosting Juice Docs on [Fleek](https://fleek.co/) with [continuous deployment](https://docs.fleek.co/hosting/site-deployment/).
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+### Images
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+To speed up load times, we use `webp` images. To convert `png` files to `webp` files, run `yarn webp`. You will need to have [`cwebp`](https://developers.google.com/speed/webp/download) installed for this to work.
+
+### Contact
+
+If you would like to contribute or have questions, you can make an issue here on GitHub, join our [Discord server](https://discord.gg/juicebox), or [contact us via juicebox.money](https://juicebox.money/contact).
