@@ -88,7 +88,14 @@ const config = {
   },
   themeConfig: {
     image: 'img/juicedocs.webp',
-    metadata: [{ name: 'keywords', content: 'juicebox, crypto, cryptocurrency, eth, ethereum, fundraising, treasury, JuiceboxDAO, dao, daos, funding, web3' }],
+    metadata: [
+			{
+				name: 'keywords', content: 'juicebox, crypto, cryptocurrency, eth, ethereum, fundraising, treasury, JuiceboxDAO, dao, daos, funding, web3'
+			},
+      {
+        name: "google-site-verification",
+        content: "0Jp7zERBL5i76DiM-bODvBGgbjuVMEQGSuwOchP_ZnE",
+      },],
     algolia: {
       appId: '6C0XLHGK46',
       apiKey: 'cf4910b7f8d618e1ee356e575db8120b',
@@ -107,6 +114,9 @@ const config = {
       minHeadingLevel: 2,
       maxHeadingLevel: 5,
     },
+		mermaid: {
+			theme: {light: 'neutral', dark: 'forest'},
+		},
     navbar: {
       logo: {
         alt: 'Juicebox Logo',
@@ -233,12 +243,6 @@ const config = {
       defaultLanguage: 'solidity',
       additionalLanguages: ['solidity'],
     },
-    metadata: [
-      {
-        name: "google-site-verification",
-        content: "0Jp7zERBL5i76DiM-bODvBGgbjuVMEQGSuwOchP_ZnE",
-      },
-    ],
   },
   scripts: [
     {
