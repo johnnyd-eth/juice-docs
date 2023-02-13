@@ -1,5 +1,6 @@
 ---
 title: Onboarding Flow
+slug: onboarding
 authors: [filipv]
 ---
 
