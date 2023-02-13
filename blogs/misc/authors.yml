@@ -4,6 +4,12 @@ jango:
   url: https://twitter.com/me_jango
   image_url: /img/author-avatars/jango.jpg
 
+filipv:
+  name: filipv
+  title: JuiceboxDAO Contributor
+  url: https://twitter.com/filipv_
+  image_url: /img/author-avatars/filip.jpg
+
 felixander:
   name: Felixander
   title: JuiceboxDAO Contributor
