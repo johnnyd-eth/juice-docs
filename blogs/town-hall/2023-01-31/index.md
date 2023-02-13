@@ -2,12 +2,12 @@
 slug: 23-01-31
 title: January 31st, 2023
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.png
+image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.webp
 tags: [town-hall]
 ---
 
 
-![Town Hall banner by Sage Kellyn](townhall.png) 
+![Town Hall banner by Sage Kellyn](townhall.webp) 
 
 Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
@@ -77,7 +77,7 @@ This is a little fun experiment, and Mieos that he was planning to start with so
 
 STVG created this [AgentHQ project](https://juicebox.money/@agenthq) on Juicebox, to help fundrasing and support the development of [Agent HQ](https://agent-hq.io/), which is a way to build your own AI info center basically by putting in some links or PDFs.
 
-![project AgentHQ](project_agenthq.png)
+![project AgentHQ](project_agenthq.webp)
 
 STVG has tried to created a “Juicebox learning center” using this Agent HQ, by putting in some of the links and docs related to Juicebox, . He demoed how the interaction with AI agent worked on the town hall. He thought that we could maybe do a better job of explaining some of the technical terms for project creators and eventually evolve this into something that people can ask questions about Juicebox before they want to reach out for help in Discord.
 
@@ -87,7 +87,7 @@ STVG would be attending the Office Hours of Nicholas and Jango to talk about som
 
 Also STVG and Justin Harder are talking about launching a project on Juicebox for a show calld Molarky, where they have the plan to do some NFT drops as an open edition for a week or 14 days, while buyers can get a Juicebox shirt or a shirt with the graphic of NFTs on it.
 
-![project molarky](project_molarky.png)
+![project molarky](project_molarky.webp)
 
 ## Updates by Nicholas 
 
@@ -101,7 +101,7 @@ All the past three episodes have been edited by Matthew and Brileigh and you can
 
 Nicholas is selling 5 second ad spots on its [Web3 Galaxy Brain project](https://juicebox.money/@web3galaxybrain) on Juicebox, for his Twitter Space podcast [Galaxy Brain](https://web3galaxybrain.com/). People who minted an NFT can let Nicholas to improvise in the show or read a specific text the minter leaves in the payment memo. This is an experiment of selling something practical through Juicebox NFTs.
 
-![galaxy brain ad spots](project_galaxybrain.png)
+![galaxy brain ad spots](project_galaxybrain.webp)
 
 ### Gabriel Haines Frontend Open Call
 
@@ -113,7 +113,7 @@ ComicsDAO is making a comic book for Nouns DAO, which will be the first mass mar
 
 Gogo encouraged people to go to the thread of ComicsDAO Artwork to join the discussions, and share their suggestions of what would be cool to have on the Nouns comic book ad page for Juicebox.
 
-![comicsdao ad page for juicebox](comicsdao_nounsbook.png)
+![comicsdao ad page for juicebox](comicsdao_nounsbook.webp)
 
 
 
@@ -121,4 +121,4 @@ Gogo encouraged people to go to the thread of ComicsDAO Artwork to join the disc
 
 The next Forming event will be on February 17th, 2023. Lexicon Devils will be doing a collaboration with [Emanate](https://twitter.com/EmanateOfficial) featuring [djlethalskillz.eth](https://twitter.com/djlethalskillz).
 
-![new Forming event](forming_emanate.png)w
+![new Forming event](forming_emanate.webp)w

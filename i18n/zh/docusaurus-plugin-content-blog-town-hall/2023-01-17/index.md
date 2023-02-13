@@ -2,12 +2,12 @@
 slug: 23-01-17
 title: JuiceboxDAO 周会概要 2023 年 1 月 18 日
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.png
+image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.webp
 tags: [town-hall]
 ---
 
 
-![Town Hall banner by Sage Kellyn](townhall.png) 
+![Town Hall banner by Sage Kellyn](townhall.webp) 
 
 Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
@@ -17,7 +17,7 @@ Nichoas 将和 Jango 一起在 [ Twitter Space](https://twitter.com/nnnnicholas/
 
 同时 Nicholas 也在尝试让大家在 [Office Hours 项目](https://juicebox.money/@officehoursclub)上 mint NFT 来优先在节目上讨论他们的项目这一做法。
 
-![Office Hours project](office_hours.png)
+![Office Hours project](office_hours.webp)
 
 答疑论道这个节目的主旨是讨论 NFT 代币经济模型或者成员代币经济模型，以帮助人们用良好的成员动态指标来创建项目。
 
@@ -25,7 +25,7 @@ Jango 也表示，我们过去一年半接触到的大多是以筹款为目标�
 
 Nicholas 还为他的 Twitter Space 播客 [Web3 Galzxy Brain](https://juicebox.money/@web3galaxybrain) 创建了一个 Juicebox 项目，在项目中 mint 一个 NFT 即可获得他节目里 5 秒的广告时间。这也是其中一个试验，希望寻找一些有趣的用例让人们在以后在他们的项目里使用。
 
-![Web3 Galaxy Brain](web3_galaxy_brain.png) 
+![Web3 Galaxy Brain](web3_galaxy_brain.webp) 
 
 ## 商品销售演示 STVG
 
@@ -67,7 +67,7 @@ Jmill 和 Genekogan 去年 12 月曾参加我们的周会，介绍他们的 Bann
 
 ## Felixander 的竞猜游戏
 
-![Felixander's contest](felixander_contest_0117.png)
+![Felixander's contest](felixander_contest_0117.webp)
 
 竞猜的提示是：我让 NFT 做一些疯狂的事。我奖励诚实勇敢的玩家。我可以轻易地让你的办公室、家庭、朋友之间或社区内充满乐趣。我是......
 
@@ -79,7 +79,7 @@ Jmill 和 Genekogan 去年 12 月曾参加我们的周会，介绍他们的 Bann
 
 Nicholas 最近与他合作创建了一个新的 Juicebox 项目，Gabriel Haines 会在项目里出售两种 NFT，他会分别为购买这些 NFT 的人做贬损或者打气的视频。在整理这个周会概要期间，这个项目已经成功创建并已收到不少付款。
 
-![Gabriel Haines project](gabriel_rantsforyou.png)
+![Gabriel Haines project](gabriel_rantsforyou.webp)
 
 Gabriel 也已经不是第一次出现在 Juicebox 了，去年有一个 [Juicebox 众筹的项目](https://juicebox.money/v2/p/327) 筹款送他去巴哈马群岛寻找 FTX 的 SBF。
 
@@ -87,11 +87,11 @@ Gabriel 也已经不是第一次出现在 Juicebox 了，去年有一个 [Juiceb
 
 Matthew 和 Brileigh 最近对上面提到的 Gabriel Haines 进行了视频采访，在[这里](https://www.youtube.com/watch?v=nBi49fBHaeo)可以观看。
 
-![Video interview with Gabriel Haines](interview_gabrielhaines.png)
+![Video interview with Gabriel Haines](interview_gabrielhaines.webp)
 
 同时他们还发布了新一期[采访 Chris Blec 的 Juicecast 节目](https://www.youtube.com/watch?v=mJ5CKcW4GsQ)，Chris Blec 以研究并发表针对一些 DEFI 协议的批判性文章闻名，这些文章发表在他的网站 [blec.report](https://blec.report/) 上，而且他还在 Juicebox 上创建了一个 [Blec Report 项目](https://juicebox.money/@blecreport)来筹款支持他的工作。
 
-![Juicecast episode with Chris Blec](interview_chrisblec.png)
+![Juicecast episode with Chris Blec](interview_chrisblec.webp)
 
 ## Tiny Dino 节目 Cheugy
 
@@ -103,4 +103,4 @@ Matthew 和 Brileigh 最近对上面提到的 Gabriel Haines 进行了视频采�
 
 Cheugy 认为 Juicebox 这个模式非常适合希望实现治理的项目。他希望稍后能够了解更多 Juicebox 可实现的社区治理用例。
 
-![Project Tiny Dino Show](project_tinydinoshow.png)
+![Project Tiny Dino Show](project_tinydinoshow.webp)

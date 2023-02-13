@@ -20,15 +20,15 @@ For this tutorial, I made a quick project on Goerli called [The Bone Zone](https
 
 On your project page scroll down to `Funding cycle` and you’ll see a button that says `Reconfigure upcoming`.
 
-![Reconfigure upcoming funding cycle](reconfig-upcoming-1.png)
+![Reconfigure upcoming funding cycle](reconfig-upcoming-1.webp)
 
 Click that and you’ll be brought to the `Reconfigure Funding Cycle` page that lets you review and change many of your project settings. Keep in mind that any changes made won’t take place until the next Funding Cycle. So, depending on how long your funding cycle is (ours is set to 14 days), your changes may not take effect for a number of days. Another thing to keep in mind is the `Reconfiguration Rules` that you have set, specifically the Delay Period which by default is 3 days. A 3-day delay means that reconfiguring an upcoming funding cycle **must** be done at least **3 days** before it starts. 
 
-![bone-zone-overview.png](bone-zone-overview.png)
+![bone-zone-overview.webp](bone-zone-overview.webp)
 
 At the top of the `Reconfigure Funding Cycle` page, you’ll see a countdown that lets you know exactly how much time is left to submit your changes for the next funding cycle. So for this project we have about 6 days and 22 hours left to submit.
 
-![Time remaining to submit reconfiguration](time-remaining.png)
+![Time remaining to submit reconfiguration](time-remaining.webp)
 
 For this example, I’m going to add a payout for my project. 
 
@@ -38,7 +38,7 @@ I’ll click `Funding` which will show my current `Funding cycle duration` and `
 
 At the moment, any funds distributed will go to the project owner, which is me, so I’ll click `Add payout recipient` and I’ll add my partner Matthew.
 
-![Juicebox project page](add-payout-r.png)
+![Juicebox project page](add-payout-r.webp)
 
 In this example, Matthew is joining the team as a developer for this project and I want to add a payout so that he can get paid trustlessly and transparently from the project’s treasury. I’ll add a payout of $2500 USD to matthewbrooks.eth.
 
@@ -64,7 +64,7 @@ The next section is `Token`. Here we can change the `Mint rate` which is the num
 
 In the next section you can adjust the `Rules` for your project. For example, maybe you need to `Pause payments` or enable `Redeemable NFTs` so contributors can burn their NFTs for a portion of the project’s overflow. If you scroll down, you can also change the `Delay Period` for your project. This is 3-day by default but can also be set longer or shorter. Projects set to `No delay` present risks for supporters: for example, a reconfiguration could be submitted at 11:59pm before the next funding cycle starts at midnight. The delay period helps mitigate this risk.
 
-![rules.png](rules.png)
+![rules.webp](rules.webp)
 
 ## Step 4: Reconfigure NFTs
 
@@ -74,7 +74,7 @@ Last but not least, you can configure your project’s NFTs. You can edit existi
 
 Before submitting our reconfiguration, we can add an on-chain `Memo` to let supporters know why changes were made or just to leave a note. I’ll add a memo that says “Welcoming Matthew to the team!” and I’ll attach a Banny sticker with hearts. 
 
-![reconfig-nfts.png](reconfig-nfts.png)
+![reconfig-nfts.webp](reconfig-nfts.webp)
 
 We can also specify a `Start time` as a UNIX timestamp, but we’ll leave this blank so that our reconfiguration will take effect as soon as possible.
 
@@ -82,7 +82,7 @@ We can also specify a `Start time` as a UNIX timestamp, but we’ll leave this b
 
 Once you’re done, you’ll see a summary of your project settings below. So now our `Distribution Limit` is set to $6,000 and we can see the two payouts: one to Matthew and the other to the project owner. Please note that these USD amounts take into account the JBX membership fee. Once you’ve reviewed everything, you can click `Deploy funding cycle configuration` and confirm the transaction in your browser wallet.
 
-![reviewndeploy-reconfig.png](reviewndeploy-reconfig.png)
+![reviewndeploy-reconfig.webp](reviewndeploy-reconfig.webp)
 
 And that’s it! You’ve successfully reconfigured your project.
 

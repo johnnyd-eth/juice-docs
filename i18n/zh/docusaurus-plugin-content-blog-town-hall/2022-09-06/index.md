@@ -22,7 +22,7 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 Juicebox 的项目合约这一次没有包含在更新的内容中，这个新的版本也不强制要求项目重新部署使用，因为这些修正的问题绝大多数项目都不太可能会碰上。但审计完成并经 DAO 批准部署之后，新创建项目将全部使用这个新的版本。
 
 前端团队上周在 Juicebox.money 上部署了一个全新的增强功能的设置页面供项目们使用，这个新的设置页面将有助项目在跨版本管理金库的时候增加他们的信心。
-![new setting interface](KiYNz3P.png)
+![new setting interface](KiYNz3P.webp)
 
 我们在 Discord 的讨论里面常常把这个合约的升级称为 V3, 但请勿将它理解为类似 V2 相对 V1 这样的重大版本，只是目前尚未对这个项目的叫法达到共识。
 
@@ -101,13 +101,13 @@ DAO 的治理将不限于不动产本身，还将涉及以下许多方面：
 
 ## 猜谜时间
 
-![](TVyZ9nZ.png)
+![](TVyZ9nZ.webp)
 
 正确答案是 gulan
 
 ## Defifa 项目 jango
 
-![defifa starting point](FHH8ISh.png)
+![defifa starting point](FHH8ISh.webp)
 
 2022 年世界杯将于今年 11 月在卡塔尔举行，作为新冠疫情后的其中一个重大国际赛事，jango 认为这将会是一个极佳的 meme 的爆发点。为此他提出了这个自治游戏的机制，利用 Juicebox 即将推出的 NFT 奖励功能及 NFT 投票系统来实现这个游戏的运行。（如果对些项目感兴趣，这见[原文](https://www.notion.so/juicebox/Defifa-8644f449958e4d9bb632cb5a46708fb6)及[译文](https://www.notion.so/juicebox/Defifa-c79acfa16e4e49fe9bd70ad216c8a474), 如有兴趣参与这个项目的讨论，可以到这个 [Discord 话题组](https://discord.com/channels/775859454780244028/1012501341626699896)
 

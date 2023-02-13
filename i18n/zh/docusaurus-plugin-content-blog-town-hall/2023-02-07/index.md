@@ -2,12 +2,12 @@
 slug: 23-02-07
 title: JuiceboxDAO 周会概要 2023 年 2 月 8 日
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.png
+image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.webp
 tags: [town-hall]
 ---
 
 
-![Town Hall banner by Sage Kellyn](townhall.png) 
+![Town Hall banner by Sage Kellyn](townhall.webp) 
 
 Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
@@ -17,7 +17,7 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
 部署 JuiceboxDAO 这个控制器迁移的交易由 Dr.Gorilla 发起并经 Jango 检查，接下来由多签进行验证并签名。完成之后，我们就用 DAO 认可的流程初步解决了主要的问题。因为提案的最后阶段，我们进行了工作细节的修订，提案内容存在一些不确定性，我们是在提案通过之后才发布了这些合约及获得合约的正式地址。
 
-![proposal to migrate the JBController](proposal_jbcontroller.png)
+![proposal to migrate the JBController](proposal_jbcontroller.webp)
 
 这个工作还带来了一些其他的情况，我们可能会预防性地审查一下控制器组件。几个周期前出现过一个问题，因为其中一个支出对象 Defifa 项目的金库暂停，导致当时分配支出的交易失败。因此我们将快速审核一下其他组件，并考虑对它们也进行版本控制。这些组件只限于控制器及付款终端，不会像上次那样需要重新配置筹款周期及代币。
 
@@ -35,7 +35,7 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
 Matthew 和 Brileigh 创建了一个名为 [Banny 情人节](https://juicebox.money/@bannyvalentines)的项目，这是他们与 Sage 合作进行的一个试验。
 
-![the project of Banny Valentines](project_bannyvalentines.png)
+![the project of Banny Valentines](project_bannyvalentines.webp)
 
 这个项目部署了几个情人节卡片 NFT 来供大家 mint 来送给自己的朋友或心爱的人。他们希望用这个有趣的小项目来在情人节前的这段时间来帮助推广 Banny。Matthew 和 Brileigh 计划向情人节前为这个项目发推的人送出这些 NFT。
 
@@ -43,7 +43,7 @@ Matthew 和 Brileigh 创建了一个名为 [Banny 情人节](https://juicebox.mo
 
 除了这个项目，他们最近还制作了一个[如何重新配置项目](https://info.juicebox.money/user/guides/reconfigure-project/)的教程。接下来他们还将制作更多的教程和其他教学性材料。
 
-![a tutorial on how to reconfigure a project](tutorial_reconfig.png)
+![a tutorial on how to reconfigure a project](tutorial_reconfig.webp)
 
  
 
@@ -59,7 +59,7 @@ Ken 说他们下周情人节期间将会在 Mirror 上发布这个项目的公�
 
 ## Forming 宣传 Germs
 
-![Forming Emanate collab.](forming_rsvp.png)
+![Forming Emanate collab.](forming_rsvp.webp)
 
 Lexicon Devil 将于 2 月 17 日与 [Emanate](https://twitter.com/EmanateOfficial) 合作举办一期新的 Forming 活动。这个活动的参与意向登记现已在 [Forming 的主页](https://forming.lexicondevils.xyz/)开放。
 
@@ -67,4 +67,4 @@ Lexicon Devil 将于 2 月 17 日与 [Emanate](https://twitter.com/EmanateOffici
 
 STVG 想知道大家有没有兴趣去 [Merch Squad 项目](https://slice.so/slicer/2?product=5)购买他最近推出的 Juicebox 长袖罩衣，他用这个来尝试销售一些与我们生态系统相关的商品。
 
-![merch squad by STVG](project_merchsquad.png)
+![merch squad by STVG](project_merchsquad.webp)

@@ -2,12 +2,12 @@
 slug: 23-02-07
 title: February 7th, 2023
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.png
+image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.webp
 tags: [town-hall]
 ---
 
 
-![Town Hall banner by Sage Kellyn](townhall.png) 
+![Town Hall banner by Sage Kellyn](townhall.webp) 
 
 Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
@@ -17,7 +17,7 @@ The [governance proposal](https://juicetool.xyz/snapshot/jbdao.eth/proposal/0x5b
 
 Once we have the transaction queued by Dr.Gorilla and checked by Jango to especially conduct this migration on JuiceboxDAO, we will verify and sign it. By then, we will have the first principle things out of the way with a process agreed upon by the DAO. There is some ambiguity in the proposal because we had some last minute building, so we published the contracts and got their official addresses after the proposal was passed. 
 
-![proposal to migrate the JBController](proposal_jbcontroller.png)
+![proposal to migrate the JBController](proposal_jbcontroller.webp)
 
 It also brought up a few other things so that we may want to look preventatively towards controllers, where a problem was exposed a few cycles ago when the payouts distribution transaction reverted because one of payouts recipient, the Defifa project, had its treasury paused. So we will be doing a quick audit of other components that we may look towards versioning. These components will just be controllers and payment terminals, there will be nothing that requires funding cycles reconfiguration or tokens like last time.
 
@@ -35,7 +35,7 @@ Thanks for everyone for moving very fast, it feels like we will be at a better p
 
 Matthew and Brileigh have just created a new project named [Banny Valentines](https://juicebox.money/@bannyvalentines), which is an experiment in collaboration with Sage. 
 
-![the project of Banny Valentines](project_bannyvalentines.png)
+![the project of Banny Valentines](project_bannyvalentines.webp)
 
 This project has deployed a few NFTs of Valentine's Day cards so that people can mint and send them to their friends or loved ones. So it is meant to be a fund little project to spread the meme of Banny leading up to the Valentine's Day. Matthew and Brileigh have the plan to send them out to people tweeting about this project over the next few days before the Valentine's Day.
 
@@ -43,7 +43,7 @@ This project is also a very good demonstration of how to use the function of cus
 
 Except for this project, Matthew and Brileigh have recently finished [a tutorial on how to reconfigure a project](https://info.juicebox.money/user/guides/reconfigure-project/). And they will be making more tutorials and educational materials in the upcoming future.
 
-![a tutorial on how to reconfigure a project](tutorial_reconfig.png)
+![a tutorial on how to reconfigure a project](tutorial_reconfig.webp)
 
  
 
@@ -59,7 +59,7 @@ Ken said they would be making announcements about this next week, by posting on 
 
 ## Forming Plug by Germs
 
-![Forming Emanate collab.](forming_rsvp.png)
+![Forming Emanate collab.](forming_rsvp.webp)
 
 Lexicon Devils will be collaborating with [Emanate](https://twitter.com/EmanateOfficial) to hold a new Forming event on Feb. 17th. The RSVP to this event is open now at [the Forming webpage](https://forming.lexicondevils.xyz/).
 
@@ -67,4 +67,4 @@ Lexicon Devils will be collaborating with [Emanate](https://twitter.com/EmanateO
 
 STVG was wondering if folks were interested to purchase the Drippy Long Sleeve on his [Merch Squad project](https://slice.so/slicer/2?product=5), an experiment for different ways to sell some merchandise related to our ecosystem. 
 
-![merch squad by STVG](project_merchsquad.png)
+![merch squad by STVG](project_merchsquad.webp)

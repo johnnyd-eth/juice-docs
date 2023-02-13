@@ -2,12 +2,12 @@
 slug: 23-01-31
 title: JuiceboxDAO 周会概要 2023 年 2 月 1 日
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.png
+image: https://info.juicebox.money/assets/images/townhall-f6220cb63e79e62f790a0ba4a041c68c.webp
 tags: [town-hall]
 ---
 
 
-![Town Hall banner by Sage Kellyn](townhall.png) 
+![Town Hall banner by Sage Kellyn](townhall.webp) 
 
 Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
@@ -77,7 +77,7 @@ Dripbox 将会提供一些盲盒形式的 NFT 产品。如果购买了这些 NFT
 
 STVG 在 Juicebox 上创建了一个 [AgentHQ 项目](https://juicebox.money/@agenthq)帮助筹款支持 [Agent HQ](https://agent-hq.io/) 的发展，这是一个通过输入一些网址或 PFD 来创建自己的 AI 信息中心的工具。
 
-![project AgentHQ](project_agenthq.png)
+![project AgentHQ](project_agenthq.webp)
 
 STVG 通过输入一些 Juicebox 相关的链接和文档，用这个 Agent HQ 创造了一个 “Juicebox 学习中心”。 他在周会上演示怎么与创建的 AI 进行互动交流。他认为我们可以通过这个更好地向项目创建者解释一些技术术语，最终把这个演变成一个解答关于 Juicebox 问题的产品。
 
@@ -87,7 +87,7 @@ STVG 将参加 Nicholas 和 Jango 主持的最新一期 Office Hours，一起讨
 
 同时 STVG 还和 Justin Harder 商议为一个表演节目 Molarky 创建一个 Juicebox 项目，并计划发行一些一周或者 14 天的开放式NFT 系列，买家可以同时获得一件 Juicebox 或者带 NFT 图案的衣服。
 
-![project molarky](project_molarky.png)
+![project molarky](project_molarky.webp)
 
 ## 工作汇报 Nicholas
 
@@ -101,7 +101,7 @@ Nicholas 和 Jango 定期每周三 EST 时间下午 4:20 分举行一个 Twitter
 
 Nicholas 目前在他的 Juicebox 项目 [Web3 Galaxy Brain](https://juicebox.money/@web3galaxybrain) 上进行他推特空间播客[Galaxy Brain](https://web3galaxybrain.com/) 的五秒钟广告位招租。有兴趣的人可以在项目购买一个 NFT 来让 Nicholas 临场发挥或读出一段买家的付款留言。他的这个项目是为了试验用 Juicebox 的 NFT 来进行一些实用性的销售。
 
-![galaxy brain ad spots](project_galaxybrain.png)
+![galaxy brain ad spots](project_galaxybrain.webp)
 
 ### Gabriel Haines 项目前端开发召集
 
@@ -113,7 +113,7 @@ ComicsDAO 正在为 Nouns DAO 制作一本漫画书，这是第一本由 Web3 �
 
 Gogo 建议大家都去 ComicsDAO Artwork 的讨论频道参与讨论，分享一下自己觉得这个广告页面应该呈现什么样的内容比较合适。
 
-![comicsdao ad page for juicebox](comicsdao_nounsbook.png)
+![comicsdao ad page for juicebox](comicsdao_nounsbook.webp)
 
 
 
@@ -121,4 +121,4 @@ Gogo 建议大家都去 ComicsDAO Artwork 的讨论频道参与讨论，分享�
 
 下一期的 Forming 活动将于 2023 年 2 月 17 日举行，届时 Lexicon Devils 将与[Emanate](https://twitter.com/EmanateOfficial) 进行合作，并邀请 [djlethalskillz.eth](https://twitter.com/djlethalskillz) 作为表演嘉宾。
 
-![new Forming event](forming_emanate.png)
+![new Forming event](forming_emanate.webp)

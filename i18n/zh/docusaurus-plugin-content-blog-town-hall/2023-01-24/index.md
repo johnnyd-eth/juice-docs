@@ -2,12 +2,12 @@
 slug: 23-01-24
 title: JuiceboxDAO 周会概要 2023 年 1 月 25 日
 authors: [zhape]
-image: https://info.juicebox.money/assets/images/townhall-fa970c078e21123c4e80993400e638db.png
+image: https://info.juicebox.money/assets/images/townhall-fa970c078e21123c4e80993400e638db.webp
 tags: [town-hall]
 ---
 
 
-![Town Hall banner by Sage Kellyn](townhall.png) 
+![Town Hall banner by Sage Kellyn](townhall.webp) 
 
 Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
@@ -176,7 +176,7 @@ ONNI 计划下周与一些项目创建者联系，希望能让他们的项目成
 
 Matthew and Brileigh 最近开始制作一些关于各种 Juicebox 相关功能的教程，诸如设置项目句柄、V3 迁移、设置项目的直接付款地址。他们也开始制作 Juicebox 项目创建流程的教程。
 
-![videos by Matthew and brileigh on Youtube](jbdao_youtube.png)
+![videos by Matthew and brileigh on Youtube](jbdao_youtube.webp)
 
 除了这些视频教程，他们还在撰写相应的文本教程，因为有些人觉得跟着文章一步步地操作会更容易。
 
