@@ -8,9 +8,9 @@ https://github.com/jbx-protocol/juice-project-handles/blob/main/contracts/JBProj
 
 #### Addresses
 
-Ethereum mainnet: [`0xe3c01e9fd2a1dcc6edf0b1058b5757138ef9ffb6`](https://etherscan.io/address/0xe3c01e9fd2a1dcc6edf0b1058b5757138ef9ffb6)
+Ethereum mainnet: [`0xE3c01E9Fd2a1dCC6edF0b1058B5757138EF9FfB6`](https://etherscan.io/address/0xE3c01E9Fd2a1dCC6edF0b1058B5757138EF9FfB6)
 
-Goerli testnet: [`0x3ff1f0583a41CE8B9463F74a1227C75FC13f7C27`](https://goerli.etherscan.io/address/0x3ff1f0583a41ce8b9463f74a1227c75fc13f7c27)
+Goerli testnet: [`0x3ff1f0583a41CE8B9463F74a1227C75FC13f7C27`](https://goerli.etherscan.io/address/0x3ff1f0583a41CE8B9463F74a1227C75FC13f7C27)
 
 #### Interfaces
 
