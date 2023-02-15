@@ -2,7 +2,7 @@
 slug: 22-12-27
 title: December 27th, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -41,7 +41,7 @@ Juicebox has been not been a default APP on the new Gnosis Safe app because of s
 
 For the project search feature based on [Sapana](https://sapana.io) that Filipv demonstrated last town hall, there's an outstanding PR for it that put together by Peri and added with some final things. Hopefully this project search will be implemented in the front end soon as well.
 
-We have a local PR for some of the SEO stuff we've been discussing, thanks to the works of Acidicsantana and Filipv. With that, the SEO on info.juicebox.money should be improving slowly, so should that of our main Juicebox.money website.
+We have a local PR for some of the SEO stuff we've been discussing, thanks to the works of Acidicsantana and Filipv. With that, the SEO on docs.juicebox.money should be improving slowly, so should that of our main Juicebox.money website.
 
 ## Forming update by Darbytrash
 

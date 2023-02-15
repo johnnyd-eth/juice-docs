@@ -2,7 +2,7 @@
 slug: 22-11-08
 title: November 8th, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 

@@ -9,7 +9,7 @@ tags: [configuration, highlight]
 
 ### A juicebox treasury and a business is born
 
-ComicsDAO formed in June 2022. It set out to create a DAO with the purpose of purchasing rare comics, scanning them, and then allowing members of ComicsDAO to digitally “rent” the comic so that they can read them in their original form. The idea was that rare original comics are aesthetically unique and should not be locked away indefinitely in some private collection. [(More in-depth article about ComicsDAO here!)](https://info.juicebox.money/blog/2022-08-29-comicsdao-the-whole-enchilada)
+ComicsDAO formed in June 2022. It set out to create a DAO with the purpose of purchasing rare comics, scanning them, and then allowing members of ComicsDAO to digitally “rent” the comic so that they can read them in their original form. The idea was that rare original comics are aesthetically unique and should not be locked away indefinitely in some private collection. [(More in-depth article about ComicsDAO here!)](https://docs.juicebox.money/blog/2022-08-29-comicsdao-the-whole-enchilada)
 
 ComicsDAO used Juicebox as its treasury. It sold its own token (”$COMICS”) to enable membership verification and for eventual voting rights. It also explored partnerships with other DAOs and organizations, and it used its Juicebox treasury to store any payments it received. It is actively operating as of the publication of this article, and you can check out its juicebox project page [here](https://juicebox.money/@comics-dao).
 

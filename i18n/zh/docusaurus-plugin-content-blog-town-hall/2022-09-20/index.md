@@ -2,12 +2,12 @@
 slug: 22-09-20
 title: JuiceboxDAO 周会概要 2022 年 9 月 21 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 
 
-![Town Hall banner by Sage Kellyn](https://info.juicebox.money/assets/images/townhall-fa970c078e21123c4e80993400e638db.webp)  
+![Town Hall banner by Sage Kellyn](https://docs.juicebox.money/assets/images/townhall-fa970c078e21123c4e80993400e638db.webp)  
 图片制作：[Sage Kellyn](https://twitter.com/SageKellyn) 
 
 
@@ -55,7 +55,7 @@ jango 同时提及 V3 合约可以扩展实现许多功能。其中一个就是�
 最新一期的 Juicebox 通讯可以在[这里](https://newsletter.juicebox.money/)找到。
 ![juicenews](Xb7qYnT.jpeg)
 
-他们计划推出一系列的配置介绍的文章，深入剖析现有项目配置的方案及采取相关方案的原因，以便新的项目创建人可以更好地理解 Juicebox 的配置机制以及给自己的创建做一定的参考。他们写的第一篇配置介绍的文章是关于 StudioDAO 的，可以在[这里](https://info.juicebox.money/blog/2022-09-20-studiodao-config/)阅读。
+他们计划推出一系列的配置介绍的文章，深入剖析现有项目配置的方案及采取相关方案的原因，以便新的项目创建人可以更好地理解 Juicebox 的配置机制以及给自己的创建做一定的参考。他们写的第一篇配置介绍的文章是关于 StudioDAO 的，可以在[这里](https://docs.juicebox.money/blog/2022-09-20-studiodao-config/)阅读。
 ![studioDAO config article](mUXCtBp.webp)
 
 Juicecast播客方面，他们最近采访了 0xSTVG，了解了他创建的 [Marin Swim County Association](https://juicebox.money/@mcsa)项目，节目将于本周晚些时候发布。
@@ -95,6 +95,6 @@ sunnndayyy 此次代表 Interface 参加会议，主要是介绍他们社区已�
 
 ## Forming 第三期活动 by darbytrash
 
-Forming 是 Lexicon Devils 搞的一个项目，不定期与一些项目合作做一些展示和表演，并将项目收入的款项用于支持艺术家的创作。这次活动是联合 [FLOPPY](https://twitter.com/FloppyDigital) 搞的 FLOPPY x FORMING，活动上将有 3 场音乐表演及关于 FLOPPY 的简单介绍，在 VOXELS 上的 [Juicebox HQ](https://info.juicebox.money/blog/juicebox.lexicondevils.xyz)举办。以下是活动场地的搭建情况：
+Forming 是 Lexicon Devils 搞的一个项目，不定期与一些项目合作做一些展示和表演，并将项目收入的款项用于支持艺术家的创作。这次活动是联合 [FLOPPY](https://twitter.com/FloppyDigital) 搞的 FLOPPY x FORMING，活动上将有 3 场音乐表演及关于 FLOPPY 的简单介绍，在 VOXELS 上的 [Juicebox HQ](https://docs.juicebox.money/blog/juicebox.lexicondevils.xyz)举办。以下是活动场地的搭建情况：
 ![FormingXFloppy](KK9n4F5.jpeg)
 

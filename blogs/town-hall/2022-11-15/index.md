@@ -2,7 +2,7 @@
 slug: 22-11-15
 title: November 15th, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -21,7 +21,7 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
 ## Defifa Update with Jango
 
-Because we are trying to figure out how to continue spreading the word and telling the story of [Defifa](https://www.defifa.net/), Jango wrote a [blog post about Defifa](https://info.juicebox.money/blog/2022-11-14-defifa) the other day explaining three of the novel technical components.
+Because we are trying to figure out how to continue spreading the word and telling the story of [Defifa](https://www.defifa.net/), Jango wrote a [blog post about Defifa](https://docs.juicebox.money/blog/2022-11-14-defifa) the other day explaining three of the novel technical components.
 
 1. Firstly, The NFT rewards mechanism, being part of the protocol, could be attached to any project upon launching now, or attached to a future funding cycle. Defifa uses this mechanism to define 32 NFT tiers  that are corresponding with the 32 teams that will be playing in the FIFA World Cup, all with the price 0.022 ETH. 
 

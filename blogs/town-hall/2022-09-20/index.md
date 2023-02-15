@@ -2,7 +2,7 @@
 slug: 22-09-20
 title: September 20th, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -77,7 +77,7 @@ The new release of Juicebox newsletter can be found [here](https://newsletter.ju
 
 The config articles are going to run through how a project is configured and some of reasons for those decisions made, to help new project creators understand why certain projects are using a different configurations and why they're making those decisions. So if new project creators want to build a similar project, they can look to that article as a reference point for their own project.
 
-Brileigh and Matthew just launched their first config article [here](https://info.juicebox.money/blog/2022-09-20-studiodao-config/).
+Brileigh and Matthew just launched their first config article [here](https://docs.juicebox.money/blog/2022-09-20-studiodao-config/).
 ![](mUXCtBp.webp)
 
 ### Juicecast (Juicebox Podcast)

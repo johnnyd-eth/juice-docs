@@ -2,7 +2,7 @@
 slug: 22-11-22
 title: November 22nd, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -118,7 +118,7 @@ They created a [Confluence @Art Basel 2022](https://juicebox.money/v2/p/315) pro
 
 ## A Contest by Felixander
 
-Felixander created a contest, the details of which he has put into a blog [here](https://info.juicebox.money/blog/the-contest-part-1/),  for the purpose of attracting more new members or Non-crypto native people into our Juicebox community. 
+Felixander created a contest, the details of which he has put into a blog [here](https://docs.juicebox.money/blog/the-contest-part-1/),  for the purpose of attracting more new members or Non-crypto native people into our Juicebox community. 
 
 This contest is actually a treasure hunt, and the treasure lies in an [Ethereum wallet address](https://etherscan.io/address/0xf9d30330af73687cda29dfe51479d0eaa05a30fe) that Felixander and WAGMI Studio have thrown some funds inside. Currenty there is 1.29 ETH in it and most importantly there are another 4 Defifa NFTs (Brazil, Argentine, France and Portugal) which might be very valuable if those teams turn out to be in the winning category on the World Cup 2022.
 

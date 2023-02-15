@@ -2,7 +2,7 @@
 slug: 22-10-25
 title: October 25th, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -11,7 +11,7 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
 ## Audit Fund Recap by Nicholas
 
-icholas created the Audit Fund project to raise funds from our community members to pay Code4rena for the NFT Rewards contract audit contest, before the funds were distributed from the DAO. For more details about this project, please refer the [summary of Town Hall last week](https://info.juicebox.money/blog/2022-10-18-town-hall).
+icholas created the Audit Fund project to raise funds from our community members to pay Code4rena for the NFT Rewards contract audit contest, before the funds were distributed from the DAO. For more details about this project, please refer the [summary of Town Hall last week](https://docs.juicebox.money/blog/2022-10-18-town-hall).
 
 ![image-20221026195655998](image-20221026195655998.webp)
 
@@ -39,7 +39,7 @@ The next couple days, our contract squad will be getting their test suite up to 
 
 Frontend team, especially Strath and Wraeth, has been working on this new create flow for nearly two months. The whole idea is to make this process a lot more simple than what we currently have, in order to make the experience of project creation more enjoyable for users. 
 
-Strath has come to the [Town Hall on  Sept. 13, 2022](https://info.juicebox.money/blog/2022-09-13-town-hall) and given a preliminary introduction to this project.  
+Strath has come to the [Town Hall on  Sept. 13, 2022](https://docs.juicebox.money/blog/2022-09-13-town-hall) and given a preliminary introduction to this project.  
 
 Today, this new create flow has been deployed on [goerli.juicebox.money](https://goerli.juicebox.money/create). Wraeth walked us through every steps of the create flow by demonstrating the creation of a project [Flamingo Sunday](https://goerli.juicebox.money/v2/p/72).
 

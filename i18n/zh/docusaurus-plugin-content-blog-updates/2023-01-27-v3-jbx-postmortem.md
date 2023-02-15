@@ -7,7 +7,7 @@ tags: [protocol, update]
 
 最后更新于北京时间 2023 年 1 月 28 日 3:33 AM。 
 
-V3 JBX 代币部署出现了一个 bug, 导致了保留代币的超额发行。这个 bug 在发现之前并没有被恶意利用，已经按照 [JBX 紧急程序](https://info.juicebox.money/dao/security/emergency/)得到妥善处理。
+V3 JBX 代币部署出现了一个 bug, 导致了保留代币的超额发行。这个 bug 在发现之前并没有被恶意利用，已经按照 [JBX 紧急程序](https://docs.juicebox.money/dao/security/emergency/)得到妥善处理。
 
 严重程度：高
 
@@ -17,7 +17,7 @@ V3 JBX 代币部署出现了一个 bug, 导致了保留代币的超额发行。�
 
 北京时间 2023 年 1 月 26 日 12 点 19 分，Jango 发现 JuiceboxDAO V3 金库存在2,086,888,439.481608634942732443 个保留 JBX 代币可被铸造出来。这个情况是在 V3 JBX 部署并附加到 JuiceboxDAO V3 金库数小时之后发生的。
 
-当时建议的行动方案是由 JuiceboxDAO 多签来履行其 [JBX 紧急程序](https://info.juicebox.money/dao/security/emergency/)上订明的职责，把保留代币改为全部分配给 dao.jbx.eth 钱包，把超额的保留代币分配到该钱包，然后把这些超额代币销毁掉。
+当时建议的行动方案是由 JuiceboxDAO 多签来履行其 [JBX 紧急程序](https://docs.juicebox.money/dao/security/emergency/)上订明的职责，把保留代币改为全部分配给 dao.jbx.eth 钱包，把超额的保留代币分配到该钱包，然后把这些超额代币销毁掉。
 
 保留代币分配对象设定的交易：https://etherscan.io/tx/0x4a0e8e84cce8674a28255b038cf1f82e6de235543e3e90c6f950bbfdd2d27f18 。
 
@@ -47,7 +47,7 @@ Jango 立即意识到问题的成因，并在报告 bug 的原始消息里做了
 
 ### 应对
 
-除非明确锁定，否则项目方是可以改变某个筹款周期保留代币率下的保留代币分配的。由于原保留代币的分配名单没有锁定，Jango 提出解决方案并按照 [JBX 紧急程序](https://info.juicebox.money/dao/security/emergency/)得到一致同意，把保留代币的分配全部转到 dao.jbx.eth 的多签钱包。这个操作必须在其他人发起公开交易把待分配保留代币分发给当前的接收人名单前完成。然后多签就会在下一个交易中完成多余代币的销毁工作。
+除非明确锁定，否则项目方是可以改变某个筹款周期保留代币率下的保留代币分配的。由于原保留代币的分配名单没有锁定，Jango 提出解决方案并按照 [JBX 紧急程序](https://docs.juicebox.money/dao/security/emergency/)得到一致同意，把保留代币的分配全部转到 dao.jbx.eth 的多签钱包。这个操作必须在其他人发起公开交易把待分配保留代币分发给当前的接收人名单前完成。然后多签就会在下一个交易中完成多余代币的销毁工作。
 
 接下来的一个小时里，多签成员被召集来复核当前形势及方案提议，并由 Juicebox.money 的网站管理员停止分发交易功能，以免保留代币被分发给 JuiceboxDAO 的保留代币受益人。
 

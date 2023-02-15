@@ -9,7 +9,7 @@ tags: [contest]
 
 Parts published so far:
 
-[Part 1](https://info.juicebox.money/misc/the-contest-part-1/) [Part 2](https://info.juicebox.money/misc/the-contest-part-2/) [Part 3](https://info.juicebox.money/misc/the-contest-part-3/) [Part 4](https://info.juicebox.money/misc/the-contest-part-4/) [Part 5](https://info.juicebox.money/misc/the-contest-part-5/) [The Poem](https://info.juicebox.money/misc/the-contest-poem/)
+[Part 1](https://docs.juicebox.money/misc/the-contest-part-1/) [Part 2](https://docs.juicebox.money/misc/the-contest-part-2/) [Part 3](https://docs.juicebox.money/misc/the-contest-part-3/) [Part 4](https://docs.juicebox.money/misc/the-contest-part-4/) [Part 5](https://docs.juicebox.money/misc/the-contest-part-5/) [The Poem](https://docs.juicebox.money/misc/the-contest-poem/)
 
 ## Intro
 
@@ -23,7 +23,7 @@ The first part of the story debuts on Thanksgiving and will be linked above. The
 
 ## How it works
 
-Each Monday, one part of the story will be released right here on the [juicebox blog](https://info.juicebox.money/blog). The story has 5 parts, and only readers who thoroughly understand the story (and all its allusions, symbolism and literary devices) will have a chance at unlocking the 12 words needed to access the wallet.
+Each Monday, one part of the story will be released right here on the [juicebox blog](https://docs.juicebox.money/blog). The story has 5 parts, and only readers who thoroughly understand the story (and all its allusions, symbolism and literary devices) will have a chance at unlocking the 12 words needed to access the wallet.
 
 Each Tuesday at 12:30pm (Pacific USA), a critical analysis session will be held in the [Juicebox discord server](https://discord.gg/juicebox) in the #Lime Station channel. Written discussions and questions will take place in the #bannyverse channel. The server is free to join, and the sessions are free to join as well. They are designed to help guide those of you who have limited experience analyzing literary content. Your chances of solving the code will be much greater if you attend these sessions, but they are not mandatory.
 

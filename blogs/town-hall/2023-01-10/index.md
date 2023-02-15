@@ -2,7 +2,7 @@
 slug: 23-01-10
 title: January 10th, 2023
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -15,11 +15,11 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
 [Filipv](https://twitter.com/filipvvvvvv) recently wrote two documents concerning the emergency procedures that we may want to set up in advance, so that if anything does happen, we will know what we should be doing.
 
-The first document is [the Juicebox Emergency Procedures](https://info.juicebox.money/dao/security/emergency/#definitions-and-examples), which covers what we should do if something does go wrong.
+The first document is [the Juicebox Emergency Procedures](https://docs.juicebox.money/dao/security/emergency/#definitions-and-examples), which covers what we should do if something does go wrong.
 
 ![Juicebox Emergency Procedures](jbx_emergency_procedures.webp)
 
-The second one, [Contributor Operations Security](https://info.juicebox.money/dao/security/opsec/) is more a general security guid for DAO contributors
+The second one, [Contributor Operations Security](https://docs.juicebox.money/dao/security/opsec/) is more a general security guid for DAO contributors
 
 Any feedback to these documents will be warmly welcome. And Filipv was planning to put up a proposal in the next governance cycle to ask the DAO for permission to use these procedures if something does go wrong in the future, so that our multisig can have the ability to make necessary updates and changes in that situation.
 

@@ -2,7 +2,7 @@
 slug: 23-02-07
 title: JuiceboxDAO 周会概要 2023 年 2 月 8 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -41,7 +41,7 @@ Matthew 和 Brileigh 创建了一个名为 [Banny 情人节](https://juicebox.mo
 
 这个项目同时也很好地展示了指定代币受益人这个功能，大家在购买这些 NFT 的时候，在付款过程可以填入其他的钱包地址，就可以把 NFT 直接发送到这些地址里去。
 
-除了这个项目，他们最近还制作了一个[如何重新配置项目](https://info.juicebox.money/user/guides/reconfigure-project/)的教程。接下来他们还将制作更多的教程和其他教学性材料。
+除了这个项目，他们最近还制作了一个[如何重新配置项目](https://docs.juicebox.money/user/guides/reconfigure-project/)的教程。接下来他们还将制作更多的教程和其他教学性材料。
 
 ![a tutorial on how to reconfigure a project](tutorial_reconfig.webp)
 

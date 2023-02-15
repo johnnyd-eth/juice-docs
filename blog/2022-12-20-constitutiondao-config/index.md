@@ -2,14 +2,14 @@
 slug: constitutiondao-config
 title: How ConstitutionDAO was configured on Juicebox
 description: Project settings for ConstitutionDAO's fundraiser to buy an original copy of the U.S. Constitution.
-image: https://info.juicebox.money/assets/images/nicolas-cage-eed12f4556a5c950c8d60e432d50d898.webp
+image: https://docs.juicebox.money/assets/images/nicolas-cage-eed12f4556a5c950c8d60e432d50d898.webp
 authors: [matthew, brileigh]
 tags: [highlight]
 ---
 *How ConstitutionDAO raised over $40 million dollars in less than a week using Juicebox*
 
 :::tip
-ConstitutionDAO was a single purpose acquisition DAO that tried to buy a copy of the U.S. constitution at Sotheby’s on November 18th, 2021. To learn more about the ConstitutionDAO campaign and the surreal events surrounding the auction, tune in to The Juicecast ConstitutionDAO Retrospective Part 1 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-15-constitutiondao-retrospective-pt-1/id1623504302?i=1000586607104), [Spotify](https://open.spotify.com/episode/5Egxvl792OvtYLO6Cw3ADG)), Part 2 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-16-constitutiondao-retrospective-pt-2/id1623504302?i=1000588377648), [Spotify](https://open.spotify.com/episode/4CHE52PyXKInL4QvmdcYgh)), and Part 3 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-17-peopledao-and-the-constitutiondao2-campaign-to/id1623504302?i=1000589496263), [Spotify](https://open.spotify.com/episode/5GkAxq5JC3VIbUwfvAoaNf)). You can also read the ConstitutionDAO deep dive article on the [JB blog](https://info.juicebox.money/blog/2022-12-13-constitutiondao/).
+ConstitutionDAO was a single purpose acquisition DAO that tried to buy a copy of the U.S. constitution at Sotheby’s on November 18th, 2021. To learn more about the ConstitutionDAO campaign and the surreal events surrounding the auction, tune in to The Juicecast ConstitutionDAO Retrospective Part 1 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-15-constitutiondao-retrospective-pt-1/id1623504302?i=1000586607104), [Spotify](https://open.spotify.com/episode/5Egxvl792OvtYLO6Cw3ADG)), Part 2 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-16-constitutiondao-retrospective-pt-2/id1623504302?i=1000588377648), [Spotify](https://open.spotify.com/episode/4CHE52PyXKInL4QvmdcYgh)), and Part 3 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-17-peopledao-and-the-constitutiondao2-campaign-to/id1623504302?i=1000589496263), [Spotify](https://open.spotify.com/episode/5GkAxq5JC3VIbUwfvAoaNf)). You can also read the ConstitutionDAO deep dive article on the [JB blog](https://docs.juicebox.money/blog/2022-12-13-constitutiondao/).
 :::
 
 In this article, we’ll cover how ConstitutionDAO used Juicebox to fundraise ~ $46 million (11,500+ ETH) in less than a week. 
@@ -28,7 +28,7 @@ Taking a closer look at the configuration settings for `Cycle #1`, we can see t
 
 - `Target: No target` means that there is no predefined funding target (e.g. $15 million USD). This gave ConstitutionDAO the flexibility to raise as much as they could in order to try and win the auction. In other words, even if they raised $50 million USD, they could distribute the entire amount.
 
-- Please note that `Target` is now [`Distribution Limit`](https://info.juicebox.money/dev/learn/overview#distribution-limit) for v2/v3 projects on Juicebox, so in this example they set `Distribution Limit` to `Infinite`.
+- Please note that `Target` is now [`Distribution Limit`](https://docs.juicebox.money/dev/learn/overview#distribution-limit) for v2/v3 projects on Juicebox, so in this example they set `Distribution Limit` to `Infinite`.
 
 - `Duration: Not set` means that the project owner can start a new funding cycle with new configuration settings at any time without notice. This is a very flexible strategy but can seem risky to potential contributors because the project owner might change the project rules at any time. In ConstitutionDAO’s case, `Duration` could have potentially been set to `7 days` to match the deadline for the auction at Sotheby’s.
 
@@ -70,7 +70,7 @@ After losing the auction at Sotheby’s, the core team reconfigured the project 
 
 🎙️ Listen to The Juicecast ConstitutionDAO Retrospective Part 1 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-15-constitutiondao-retrospective-pt-1/id1623504302?i=1000586607104), [Spotify](https://open.spotify.com/episode/5Egxvl792OvtYLO6Cw3ADG)), Part 2 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-16-constitutiondao-retrospective-pt-2/id1623504302?i=1000588377648), [Spotify](https://open.spotify.com/episode/4CHE52PyXKInL4QvmdcYgh)), and Part 3 ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ep-17-peopledao-and-the-constitutiondao2-campaign-to/id1623504302?i=1000589496263), [Spotify](https://open.spotify.com/episode/5GkAxq5JC3VIbUwfvAoaNf))
 
-📙 Read the [full story of ConstitutionDAO on the JB blog](https://info.juicebox.money/blog/2022-12-13-constitutiondao/)
+📙 Read the [full story of ConstitutionDAO on the JB blog](https://docs.juicebox.money/blog/2022-12-13-constitutiondao/)
 
 🧃 See ConstitutionDAO’s project on Juicebox: [https://juicebox.money/p/constitutiondao](https://juicebox.money/p/constitutiondao)
 
@@ -78,6 +78,6 @@ After losing the auction at Sotheby’s, the core team reconfigured the project 
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

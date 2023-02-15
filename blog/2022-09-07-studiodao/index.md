@@ -4,7 +4,7 @@ title: StudioDAO, A Decentralized Movie Studio Flipping the Script on Funding Fi
 description: How StudioDAO is building the first million person green-light committee on Juicebox.
 authors: [matthew, brileigh]
 tags: [highlight]
-image: https://info.juicebox.money/assets/images/studiodao-25a8b3e8c725cf93b5d15ef9c9830c86.jpeg
+image: https://docs.juicebox.money/assets/images/studiodao-25a8b3e8c725cf93b5d15ef9c9830c86.jpeg
 ---
 
 # 🎬 StudioDAO: A Decentralized Movie Studio Flipping the Script on Funding Films  
@@ -12,7 +12,7 @@ image: https://info.juicebox.money/assets/images/studiodao-25a8b3e8c725cf93b5d15
 ***How StudioDAO is building the first million person green-light committee on Juicebox.***
 
 :::tip
-To learn more about how StudioDAO and its sub-projects are configured on Juicebox, read this [companion article](https://info.juicebox.money/blog/2022-09-20-studiodao-config/).
+To learn more about how StudioDAO and its sub-projects are configured on Juicebox, read this [companion article](https://docs.juicebox.money/blog/2022-09-20-studiodao-config/).
 :::
 
 ### 🥱 Prequels, sequels, reboots  
@@ -91,6 +91,6 @@ The idea of crowdfunding films isn’t new: [Kickstarter](https://www.kickstarte
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

@@ -2,7 +2,7 @@
 slug: 23-01-10
 title: JuiceboxDAO 周会概要 2023 年 1 月 11 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -15,11 +15,11 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
 [Filipv](https://twitter.com/filipvvvvvv) 最近编写了关于应急预案的两份文件，他认为我们应该提前应对一些紧急情况提前设置一些应急流程。
 
-第一份文件是[Juicebox 应急流程](https://info.juicebox.money/dao/security/emergency/#definitions-and-examples)，总结了紧急情况下我们应该采取的措施。
+第一份文件是[Juicebox 应急流程](https://docs.juicebox.money/dao/security/emergency/#definitions-and-examples)，总结了紧急情况下我们应该采取的措施。
 
 ![Juicebox Emergency Procedures](jbx_emergency_procedures.webp)
 
-第二份文件是[贡献者安全操作指引](https://info.juicebox.money/dao/security/opsec/) ，是给 DAO 的贡献者的一般性安全指引。
+第二份文件是[贡献者安全操作指引](https://docs.juicebox.money/dao/security/opsec/) ，是给 DAO 的贡献者的一般性安全指引。
 
 非常欢迎针对这些文件的任何反馈。同时 Filipv 计划下个治理周期提交一项提案向 DAO 申请授权在出现状况时使用这些流程，以便多签可以相应采取必要的措施。
 

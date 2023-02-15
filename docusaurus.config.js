@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Juicebox Docs",
   tagline: "Fund your thing.",
-  url: "https://info.juicebox.money",
+  url: "https://docs.juicebox.money",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",

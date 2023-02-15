@@ -2,7 +2,7 @@
 slug: 22-10-11
 title: October 11th, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -71,7 +71,7 @@ What they need of help right now is:
 
 Matthew and Brileigh have just released their latest episode of Juicenew [here](https://juicenews.beehiiv.com/p/juicenews-oct-11)
 
-And they also wrote [an article about Moondao](https://info.juicebox.money/blog/2022-10-11-moondao/
+And they also wrote [an article about Moondao](https://docs.juicebox.money/blog/2022-10-11-moondao/
 ), with details about the backgroud, the development history, as well as the most recent updates of this community.
 ![](Cct58Ri.webp)
 
@@ -79,7 +79,7 @@ And they also wrote [an article about Moondao](https://info.juicebox.money/blog/
 
 
 
-In the course of creating the Audit Fund project, Nicholas came up with a cool model to use an ENS name to work with the Juicebox project payer, so that funds like ETH sent to the ENS will be forwarded to this project payer and go into the treasury of that Juicebox project, with project tokens minted to the original contributor in return. Nicholas wrote a blog post as a tutorial in details [here](https://info.juicebox.money/blog/juicebox-donate-with-ens/).
+In the course of creating the Audit Fund project, Nicholas came up with a cool model to use an ENS name to work with the Juicebox project payer, so that funds like ETH sent to the ENS will be forwarded to this project payer and go into the treasury of that Juicebox project, with project tokens minted to the original contributor in return. Nicholas wrote a blog post as a tutorial in details [here](https://docs.juicebox.money/blog/juicebox-donate-with-ens/).
 ![](NY7Zu1d.webp)
 
 

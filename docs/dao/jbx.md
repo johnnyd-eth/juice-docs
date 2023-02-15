@@ -15,7 +15,7 @@ The DAO is funded through a combination of direct contributions and [protocol fe
 
 JBX can be issued at any time, according to the configuration of the DAO's projects. It can also be redeemed at any time to reclaim some of the ETH in the treasuries, again according to the configuration of the DAO's projects.
 
-These configurations are determined by JBX token voting on [Snapshot](https://snapshot.org/#/jbdao.eth/). Approved proposals are then implemented by the DAO's 9/14 [Safe Multisig](https://app.safe.global/eth:0xAF28bcB48C40dBC86f52D459A6562F658fc94B1e/), which has signers who are elected through DAO governance. You can see the our full Governance Process [here](https://info.juicebox.money/dao/process/) — this process is also decided upon and ratified by JBX voters.
+These configurations are determined by JBX token voting on [Snapshot](https://snapshot.org/#/jbdao.eth/). Approved proposals are then implemented by the DAO's 9/14 [Safe Multisig](https://app.safe.global/eth:0xAF28bcB48C40dBC86f52D459A6562F658fc94B1e/), which has signers who are elected through DAO governance. You can see the our full Governance Process [here](https://docs.juicebox.money/dao/process/) — this process is also decided upon and ratified by JBX voters.
 
 ## About JBX
 
@@ -33,7 +33,7 @@ The [v1 project](https://juicebox.money/p/juicebox) has a similar configuration,
 
 You can find information about JBX holders and distribution on the [v3](https://juicebox.money/@juicebox) and [v1](https://juicebox.money/p/juicebox) project pages, as well as on our [Dune JBX Dashboard](https://dune.com/juicebox/jbx).
 
-You may see some recent anomalies in issuance — these were caused by a [v3 JBX deployment bug](https://info.juicebox.money/updates/v3-jbx-postmortem/), which has since been mitigated. Over the coming weeks and months, JuiceboxDAO will be consolidating all JBX and DAO operations into its [v3 project](https://juicebox.money/@juicebox). v1 JBX holders will be able to exchange their tokens for v3 JBX, all ETH will be moved into the v3 project, and redemption will be turned back on.
+You may see some recent anomalies in issuance — these were caused by a [v3 JBX deployment bug](https://docs.juicebox.money/updates/v3-jbx-postmortem/), which has since been mitigated. Over the coming weeks and months, JuiceboxDAO will be consolidating all JBX and DAO operations into its [v3 project](https://juicebox.money/@juicebox). v1 JBX holders will be able to exchange their tokens for v3 JBX, all ETH will be moved into the v3 project, and redemption will be turned back on.
 
 v1 JBX is claimable as an ERC-20 token: [`0x3abF2A4f8452cCC2CF7b4C1e4663147600646f66`](https://etherscan.io/address/0x3abF2A4f8452cCC2CF7b4C1e4663147600646f66). The ERC-20 token for v3 JBX has not yet been issued.
 
@@ -48,6 +48,6 @@ Juicebox projects pay a 2.5% fee when they pay a wallet outside of the Juicebox 
 
 In exchange for paying this fee, projects receive JBX at the current issuance rate, thereby partially governing the protocol.
 
-The fee can be set anywhere between 0% and 5%, as decided by JuiceboxDAO governance. The protocol has very minimal global governance, which you can learn about [here](https://info.juicebox.money/dev/learn/administration/).
+The fee can be set anywhere between 0% and 5%, as decided by JuiceboxDAO governance. The protocol has very minimal global governance, which you can learn about [here](https://docs.juicebox.money/dev/learn/administration/).
 
-Projects can also temporarily set fees aside with [Hold fees](https://info.juicebox.money/dev/learn/glossary/hold-fees/). This can be useful if a project needs to temporarily pull funds out of their project, but plans to return those funds to the project later on and does not want to pay fees in the interim.
+Projects can also temporarily set fees aside with [Hold fees](https://docs.juicebox.money/dev/learn/glossary/hold-fees/). This can be useful if a project needs to temporarily pull funds out of their project, but plans to return those funds to the project later on and does not want to pay fees in the interim.

@@ -2,7 +2,7 @@
 slug: 22-11-15
 title: JuiceboxDAO 周会概要 2022 年 11 月 16 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 
@@ -21,7 +21,7 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
 ## Defifa 工作报告 with Jango
 
-我们目前正在想办法推广 Defifa 项目和进行相关的叙事，Jango 最近新撰写了一篇 [Defifa 的博客](https://info.juicebox.money/zh/blog/2022-11-14-defifa)，解释这个项目的三个比较新颖的技术组件。
+我们目前正在想办法推广 Defifa 项目和进行相关的叙事，Jango 最近新撰写了一篇 [Defifa 的博客](https://docs.juicebox.money/zh/blog/2022-11-14-defifa)，解释这个项目的三个比较新颖的技术组件。
 
 1. 首先，NFT 奖励机制作为协议的组成部分，现在可以附加到新建项目上，或者附加到现有项目以后的筹款周期上。Defifa 使用这一机制定义了 32 个等级，分别对应世界杯的 32 支参赛队伍，所有等级的价格都是 0.022 ETH。
 

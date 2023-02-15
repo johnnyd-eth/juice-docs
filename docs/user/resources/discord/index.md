@@ -117,7 +117,7 @@ Click `Create` to publish your message.
 A links embed will guide your community to DAO's resources and websites. To create one:
 1. Open your server's [carl.gg dashboard](https://carl.gg/dashboard/). Open the `Embeds` page in the sidebar.
 2. Fill out the `Title` field—*Stapler DAO Links*, for example.
-3. Add your links to the `Description` field, formatted in [markdown](https://www.markdownguide.org/cheat-sheet/). An input of `[Juicebox Docs](https://info.juicebox.money)` will be formatted to: [Juicebox Docs](https://info.juicebox.money). If you have many links, you may want to separate them with bolded category titles. An input of `**Example Text**` will be formatted to: **Example Text**.
+3. Add your links to the `Description` field, formatted in [markdown](https://www.markdownguide.org/cheat-sheet/). An input of `[Juicebox Docs](https://docs.juicebox.money)` will be formatted to: [Juicebox Docs](https://docs.juicebox.money). If you have many links, you may want to separate them with bolded category titles. An input of `**Example Text**` will be formatted to: **Example Text**.
 4. Select your `#🔗｜links` channel in the `Destination` field. Click `Post` to publish your links embed.
 
 ## 4. Twitter Feed

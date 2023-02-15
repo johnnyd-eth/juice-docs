@@ -198,7 +198,7 @@ And back to the protocol overview payge, there is this `All users`
 If you click the `See more` after an ENS/Address, it will take you to the dedicated page of that person/address. Let's take @jango's as an example:
 ![](gfvRt82.jpeg)
 
-**jango**: Man, I feel this is full-fledged superpowered graph interface for projects. I wonder if we need to build a documentation on how to navigate this into the [info site](info.juicebox.money) or Juicebox High or something? maybe in a more tucked away Data section or something? 
+**jango**: Man, I feel this is full-fledged superpowered graph interface for projects. I wonder if we need to build a documentation on how to navigate this into the [info site](docs.juicebox.money) or Juicebox High or something? maybe in a more tucked away Data section or something? 
 
 **twodam**: Yes! I would love to.
 

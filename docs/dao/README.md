@@ -36,7 +36,7 @@ JuiceboxDAO contributors build in the open — to participate, read the [contrib
 [Notion](https://juicebox.notion.site/Juicebox-Notion-7b2436cec0c145c88b3efa0376c6dba3)<br/>
 [Dune Analytics](https://dune.com/projects/juicebox)<br/>
 [JuiceTool](https://juicetool.xyz/)<br/>
-[Juicebox](https://app.usefathom.com/share/eryrrjsv/juicebox.money) and [Juice Docs](https://app.usefathom.com/share/umyovgdg/info.juicebox.money) Analytics
+[Juicebox](https://app.usefathom.com/share/eryrrjsv/juicebox.money) and [Juice Docs](https://app.usefathom.com/share/umyovgdg/docs.juicebox.money) Analytics
 
 </details>
 

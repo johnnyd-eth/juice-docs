@@ -2,7 +2,7 @@
 slug: 22-10-25
 title: JuiceboxDAO 周会概要 2022 年 10 月 26 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 
@@ -13,7 +13,7 @@ Art by [Sage Kellyn](https://twitter.com/SageKellyn)
 
 ## 审计基金项目总结报告 Nicholas
 
-Nicholas 创建了一个审计基金项目，在我们社区成员之间筹款，以便在 DAO 的审计拨款下来之前能够向 Code4rena 垫款按时启动审计。请查看[上周的周会概要](https://info.juicebox.money/zh/blog/2022-10-18-town-hall)了解更多关于这个项目的详细情况。
+Nicholas 创建了一个审计基金项目，在我们社区成员之间筹款，以便在 DAO 的审计拨款下来之前能够向 Code4rena 垫款按时启动审计。请查看[上周的周会概要](https://docs.juicebox.money/zh/blog/2022-10-18-town-hall)了解更多关于这个项目的详细情况。
 
 ![image-20221026195655998](image-20221026195655998.webp)
 

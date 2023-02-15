@@ -7,7 +7,7 @@ tags: [dao, update]
 
 ## Juicebox v2
 
-Jango's proposal to [Deploy v2](https://snapshot.org/#/jbdao.eth/proposal/0x98bba73a52fcc2f65252d769b328ab398f955c1bb43259430ff586a568b8e06e) passed by overwhelming majority. You can learn more about v2 on the [docs](https://info.juicebox.money/intro).
+Jango's proposal to [Deploy v2](https://snapshot.org/#/jbdao.eth/proposal/0x98bba73a52fcc2f65252d769b328ab398f955c1bb43259430ff586a568b8e06e) passed by overwhelming majority. You can learn more about v2 on the [docs](https://docs.juicebox.money/intro).
 
 Currently, v2 is scheduled to deploy on April 16th.
 
@@ -21,9 +21,9 @@ For realtime progress updates, take a look at the [Figma](https://www.figma.com/
 
 ## Juicebox High 
 
-[Juicebox High](https://info.juicebox.money) is live (and you are on it right now)! Join the [Discord](https://www.discord.gg/juicebox) and send a message in `#documentation` if you're interested in contributing or have ideas for improvements.
+[Juicebox High](https://docs.juicebox.money) is live (and you are on it right now)! Join the [Discord](https://www.discord.gg/juicebox) and send a message in `#documentation` if you're interested in contributing or have ideas for improvements.
 
-You can use the new blog with your RSS reader by adding [https://info.juicebox.money/blog/rss.xml](https://info.juicebox.money/blog/rss.xml) or [https://info.juicebox.money/blog/atom.xml](https://info.juicebox.money/blog/atom.xml).
+You can use the new blog with your RSS reader by adding [https://docs.juicebox.money/blog/rss.xml](https://docs.juicebox.money/blog/rss.xml) or [https://docs.juicebox.money/blog/atom.xml](https://docs.juicebox.money/blog/atom.xml).
 
 ## Metaverse Festivities
 
@@ -39,7 +39,7 @@ Felixander has launched a new interview series called "Juicebox in the words of"
 
 In his words: *“Juicebox in the words of” is a series that highlights JB community members in interview form. Learn about members’ roles at JB and what makes them tick.*
 
-Interviews with [zom](https://info.juicebox.money/blog/juicebox-in-the-words-of-zom-bae), [filipv](https://info.juicebox.money/blog/juicebox-in-the-words-of-filipv), [jango](https://info.juicebox.money/blog/juicebox-in-the-words-of-jango), and [peri](https://info.juicebox.money/blog/juicebox-in-the-words-of-peri) have already been published. You can find the latest interviews (and more) on the [blog](https://info.juicebox.money/blog).
+Interviews with [zom](https://docs.juicebox.money/blog/juicebox-in-the-words-of-zom-bae), [filipv](https://docs.juicebox.money/blog/juicebox-in-the-words-of-filipv), [jango](https://docs.juicebox.money/blog/juicebox-in-the-words-of-jango), and [peri](https://docs.juicebox.money/blog/juicebox-in-the-words-of-peri) have already been published. You can find the latest interviews (and more) on the [blog](https://docs.juicebox.money/blog).
 
 ## Vote!
 

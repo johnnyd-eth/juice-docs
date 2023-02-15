@@ -2,14 +2,14 @@
 slug: lexicon-devils-config
 title: How Lexicon Devils is configured on Juicebox
 description: Managing a metaverse architecture guild on Juicebox.
-image: https://info.juicebox.money/assets/images/JBParcel-50c55bf6fc1559678a00980c8f9f692f.webp
+image: https://docs.juicebox.money/assets/images/JBParcel-50c55bf6fc1559678a00980c8f9f692f.webp
 authors: [matthew, brileigh]
 tags: [configuration]
 ---
 
 ***Managing a metaverse architecture guild on Juicebox***
 
-Lexicon Devils is a metaverse guild running on Juicebox. To learn more about how Lexicon Devils is building the metaverse and getting paid to do it, check out this [deep dive on the JB blog](https://info.juicebox.money/blog/2022-07-14-lexicon-devils/) and listen to episode 8 of the Juicecast with [Wackozacco](https://twitter.com/wackozacco420) and [Peacenode](https://twitter.com/peace_node) on [Spotify](https://open.spotify.com/episode/3dVbEegY8abnQSbejulgiL?si=9f3a2106287d4a59) and [Apple Podcasts](https://podcasts.apple.com/ca/podcast/ep-8-peacenode-and-wackozacco-from-lexicon-devils/id1599885493?i=1000569582815).
+Lexicon Devils is a metaverse guild running on Juicebox. To learn more about how Lexicon Devils is building the metaverse and getting paid to do it, check out this [deep dive on the JB blog](https://docs.juicebox.money/blog/2022-07-14-lexicon-devils/) and listen to episode 8 of the Juicecast with [Wackozacco](https://twitter.com/wackozacco420) and [Peacenode](https://twitter.com/peace_node) on [Spotify](https://open.spotify.com/episode/3dVbEegY8abnQSbejulgiL?si=9f3a2106287d4a59) and [Apple Podcasts](https://podcasts.apple.com/ca/podcast/ep-8-peacenode-and-wackozacco-from-lexicon-devils/id1599885493?i=1000569582815).
 
 ![Juicebox Learning Center in Voxels](Juicecast-Voxels.jpg)
 
@@ -54,7 +54,7 @@ Looking at the history of `Distributed Funds` in the `Activity` panel, we can se
 
 ### Reserved token allocation 🪙
 
-We can also take a look at how Lexicon Devils’ [`Reserved Tokens`](https://info.juicebox.money/dev/learn/glossary/reserved-tokens) are split:
+We can also take a look at how Lexicon Devils’ [`Reserved Tokens`](https://docs.juicebox.money/dev/learn/glossary/reserved-tokens) are split:
 
 - ~ 11% to eight current contributors building Lexicon Devils
 - ~ 11% to the Lexicon Devils [multisig](https://etherscan.io/address/0x82F018c331231f2A27b68DDbDDe61429338D86E8)
@@ -75,7 +75,7 @@ In addition to managing their own project as metaverse architects on Juicebox, L
 
 🎙️ Listen to [Wackozacco](https://twitter.com/wackozacco420) and [Peacenode](https://twitter.com/peace_node) share the story of Lexicon Devils on episode 8 of the Juicecast on [Spotify](https://open.spotify.com/episode/3dVbEegY8abnQSbejulgiL?si=9f3a2106287d4a59) and [Apple Podcasts](https://podcasts.apple.com/ca/podcast/ep-8-peacenode-and-wackozacco-from-lexicon-devils/id1599885493?i=1000569582815)
 
-✍️ Learn more about Lexicon Devils in this [deep dive article on the JB blog](https://info.juicebox.money/blog/2022-07-14-lexicon-devils/)
+✍️ Learn more about Lexicon Devils in this [deep dive article on the JB blog](https://docs.juicebox.money/blog/2022-07-14-lexicon-devils/)
 
 🏗 Follow Lexicon Devils on Twitter: [@devils_lexicon](https://twitter.com/devils_lexicon)
 
@@ -87,6 +87,6 @@ In addition to managing their own project as metaverse architects on Juicebox, L
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

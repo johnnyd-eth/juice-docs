@@ -2,7 +2,7 @@
 slug: 23-01-17
 title: JuiceboxDAO 周会概要 2023 年 1 月 18 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -63,7 +63,7 @@ Jmill 目前正在和他的朋友 Gene 及 Alexander 一起搞一个名为 Eden 
 
 Jango 觉得他们目前在我们的 Banny Warhol 频道做的 Banny AI 生成器挺好用的，他对在这方面扩展商品模式很感兴趣。Jmill 则建议或许我们可以把 Banny Warhol AI 生成器整合到 Juicebox 的项目创建流程，如果项目方想部署 NFT 又没有好的 JPEG 文件，他们可以用这个 AI 生成器来生成一些 Banny 形象用于 NFT。
 
-Jmill 和 Genekogan 去年 12 月曾参加我们的周会，介绍他们的 Banny Warhol 产品，请参阅[这里](https://info.juicebox.money/town-hall/22-12-13/#banny-warhol-with-jmill-and-genekogan)。
+Jmill 和 Genekogan 去年 12 月曾参加我们的周会，介绍他们的 Banny Warhol 产品，请参阅[这里](https://docs.juicebox.money/town-hall/22-12-13/#banny-warhol-with-jmill-and-genekogan)。
 
 ## Felixander 的竞猜游戏
 

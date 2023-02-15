@@ -2,7 +2,7 @@
 slug: 23-01-03
 title: JuiceboxDAO 周会概要 2023 年 1 月 4 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 

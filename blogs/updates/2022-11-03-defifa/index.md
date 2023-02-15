@@ -2,7 +2,7 @@
 slug: 2022-11-03-defifa-launch
 title: The 2022 World Cup is decentralized and happening on Ethereum with an all-banana cast
 description: Defifa game rules and launch info
-image: https://info.juicebox.money/assets/images/argentinaflag-b55d726e0d643b82f6a9f359dddf9548.webp
+image: https://docs.juicebox.money/assets/images/argentinaflag-b55d726e0d643b82f6a9f359dddf9548.webp
 authors: [felixander]
 tags: [update]
 ---

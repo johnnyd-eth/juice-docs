@@ -2,7 +2,7 @@
 slug: sharkdao-highlight
 title: SharkDAO, A Sub-DAO Raising Funds to Participate in the Nouns Ecosystem
 description: SharkDAO has raised over 1000 ETH on Juicebox, acquired six Nouns, and brought together over 400 sharks.
-image: https://info.juicebox.money/assets/images/shark-gang-02e94ae4934b6e35ac287c830da5c4b8.webp
+image: https://docs.juicebox.money/assets/images/shark-gang-02e94ae4934b6e35ac287c830da5c4b8.webp
 authors: [matthew, brileigh]
 tags: [highlight]
 ---
@@ -119,7 +119,7 @@ What’s next for SharkDAO? Stay tuned for future NounsDAO proposals like the [M
 
 > The value of SHARK is derived not only from its ETH stored in the Juicebox contracts, but also from the NFTs the DAO has deployed treasury funds to acquire, from the JBX that the DAO has begun accumulating by paying platform fees, and perhaps most importantly from the productive community forming within the project that gives it boundless potential moving forward.
 >  
->— [Jango](https://twitter.com/me_jango), from [Juicebox V2: Protocol adjustments useful for adding treasury tokens to AMMs](https://info.juicebox.money/blog/adding-juicebox-treasury-tokens-to-amms)  
+>— [Jango](https://twitter.com/me_jango), from [Juicebox V2: Protocol adjustments useful for adding treasury tokens to AMMs](https://docs.juicebox.money/blog/adding-juicebox-treasury-tokens-to-amms)  
 
 ### Relevant links  
 

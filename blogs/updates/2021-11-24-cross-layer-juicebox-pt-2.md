@@ -5,7 +5,7 @@ authors: [jango]
 tags: [protocol, observations]
 ---
 
-From the [original post](https://info.juicebox.money/blog/multi-layer-juicebox/): 
+From the [original post](https://docs.juicebox.money/blog/multi-layer-juicebox/): 
 
 > The simplest option would be to just deploy the same Juicebox protocol in each EVM compatible L2 environment. This forces projects to choose which they would like to operate on, or manage their own complexity if they would like to operate across many. I'm guessing most projects would prefer to operate everywhere, if only it were easy to do so.
 

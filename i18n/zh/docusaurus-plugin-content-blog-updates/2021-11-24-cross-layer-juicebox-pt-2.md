@@ -5,7 +5,7 @@ authors: [jango]
 tags: [protocol, observations]
 ---
 
-[上一个博客](https://info.juicebox.money/zh/blog/multi-layer-juicebox/)的内容：
+[上一个博客](https://docs.juicebox.money/zh/blog/multi-layer-juicebox/)的内容：
 > 最简单的做法是在每个兼容 EVM 的 L2 环境中部署相同的 Juicebox 协议。这会迫使项目选择他们想要在哪一个 L2 上运行，或者如果他们想要同时在多个网络中运行，则需要自行处理因此引入的复杂性。但凡能够简单易行一点，我猜大多数项目都会希望在所有的环境下运行。
 
 万一最简单的做法就是最好的做法呢？

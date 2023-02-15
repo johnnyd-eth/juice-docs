@@ -2,7 +2,7 @@
 slug: how-to-sell-nfts
 title: How to Sell NFTs on Juicebox
 description: Tutorial on how to sell NFTs on Juicebox for NFT projects, DAOs, and crowdfunding.
-image: https://info.juicebox.money/assets/images/cover-img-5ff62f902fd04b5fc5166f12fd01f864.webp
+image: https://docs.juicebox.money/assets/images/cover-img-5ff62f902fd04b5fc5166f12fd01f864.webp
 authors: [brileigh, matthew]
 tags: [guide, nft]
 ---
@@ -122,6 +122,6 @@ So we’ll refresh the page and now you can see the NFT that we just purchased i
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

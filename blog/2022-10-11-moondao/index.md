@@ -3,14 +3,14 @@ slug: moondao-highlight
 title: MoonDAO, a worldwide collective decentralizing space exploration and research
 description: How MoonDAO raised over $8 million (2600+ ETH) on Juicebox to send someone to space
 authors: [matthew, brileigh]
-image: https://info.juicebox.money/assets/images/banny-2a0fa2d6648ca7f3e459372cd89fbc01.webp
+image: https://docs.juicebox.money/assets/images/banny-2a0fa2d6648ca7f3e459372cd89fbc01.webp
 tags: [highlight]
 ---
 
 ***How MoonDAO raised over $8 million (2600+ ETH) on Juicebox to send someone to space***
 
 :::tip
-To learn more about how MoonDAO was configured on Juicebox for its fundraiser, read this [companion article](https://info.juicebox.money/blog/2022-10-18-moondao-config/).
+To learn more about how MoonDAO was configured on Juicebox for its fundraiser, read this [companion article](https://docs.juicebox.money/blog/2022-10-18-moondao-config/).
 :::
 
 There are nearly eight billion people on Earth and [fewer than seven hundred](https://www.nytimes.com/2021/11/10/science/600-astronauts-space.html) of them have been to space. We all share a curiosity to better understand space but only the wealthy have the ability to actually experience it firsthand. What started as a space race between nation states is now a game being played out by corporations, excluding 99.9% of humanity from having a voice in how we explore and research outer space… that is, until [MoonDAO](https://moondao.com/).
@@ -76,6 +76,6 @@ Stay tuned for more MoonDAO updates as their next goal is to go to the moon in 2
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

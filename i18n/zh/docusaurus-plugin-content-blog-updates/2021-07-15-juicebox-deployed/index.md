@@ -2,7 +2,7 @@
 slug: juicebox-deployed
 title: Juicebox 已经部署
 authors: [jango]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [protocol, Chinese translation]
 ---
 

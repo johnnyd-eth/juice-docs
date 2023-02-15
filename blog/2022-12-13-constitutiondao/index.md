@@ -2,7 +2,7 @@
 slug: constitutiondao-highlight
 title: ConstitutionDAO and how a group of friends on the internet raised over $40 million to buy the U.S. Constitution
 description: How the campaign got started, setbacks along the way, and the final auction at Sotheby's.
-image: https://info.juicebox.money/assets/images/nicolas-cage-92471b7e614dfab2a8dbd615404705cf.jpeg
+image: https://docs.juicebox.money/assets/images/nicolas-cage-92471b7e614dfab2a8dbd615404705cf.jpeg
 authors: [matthew, brileigh]
 tags: [highlight]
 ---
@@ -74,7 +74,7 @@ When community members received $PEOPLE tokens for contributions made in ETH, th
 When it came time to raise money for the auction, ConstitutionDAO had three options: [Mirror](https://twitter.com/viamirror), [Syndicate](https://twitter.com/SyndicateDAO), and [Juicebox](https://juicebox.money/). While each platform had a history of raising funds and starting DAOs, there were still concerns about putting millions of dollars into unaudited smart contracts. In the end, the team chose Juicebox because the overflow mechanism would allow refunds in the event that ConstitutionDAO didn't win the [auction.](http://auction.It) It also seemed (somewhat) battle tested with [SharkDAO](https://twitter.com/sharkdao) previously raising several million dollars to buy the Shark Noun.
 
 :::tip
-If you want to learn more about SharkDAO, a sub-DAO of NounsDAO raising funds to buy Nouns, check out [this article](https://info.juicebox.money/blog/2022-07-18-sharkdao).
+If you want to learn more about SharkDAO, a sub-DAO of NounsDAO raising funds to buy Nouns, check out [this article](https://docs.juicebox.money/blog/2022-07-18-sharkdao).
 :::
 
 At 8:31pm on Sunday night (day 4), the [Juicebox project](https://juicebox.money/p/constitutiondao) launched on mainnet and the $PEOPLE token was deployed shortly after. Within ten minutes accepting contributions, ConstitutionDAO had already amassed $250,000 USD. 
@@ -159,6 +159,6 @@ Almost exactly a year later, Sotheby's has [announced](https://www.sothebys.com/
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

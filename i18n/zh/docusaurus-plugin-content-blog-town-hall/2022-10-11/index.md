@@ -2,7 +2,7 @@
 slug: 22-10-11
 title: JuiceboxDAO 周会概要 2022 年 10 月 12 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 
@@ -62,13 +62,13 @@ ONNI 提出希望在以下方面得到 JBDAO 社区的帮助和支持：
 
 Matthew 和 Brileigh 刚刚推出新一期的 [Juicenew](https://juicenews.beehiiv.com/p/juicenews-oct-11)。
 
-同时他们还撰写了一篇[文章](https://info.juicebox.money/blog/2022-10-11-moondao/
+同时他们还撰写了一篇[文章](https://docs.juicebox.money/blog/2022-10-11-moondao/
 )，详细介绍 MoonDAO 创建背景、发展历程和社区的最新情况。
 ![](Cct58Ri.webp)
 
 
 
-Nicholas 在创建审计基金项目的过程中，摸索出一个用 ENS 域名来作为项目直接支付地址的模式，他把这个做法详细地写成一个[教程](https://info.juicebox.money/blog/juicebox-donate-with-ens/)，供大家需要时进行参考。
+Nicholas 在创建审计基金项目的过程中，摸索出一个用 ENS 域名来作为项目直接支付地址的模式，他把这个做法详细地写成一个[教程](https://docs.juicebox.money/blog/juicebox-donate-with-ens/)，供大家需要时进行参考。
 ![](NY7Zu1d.webp)
 
 ## FORMING 工作报告 Lexicon Devils

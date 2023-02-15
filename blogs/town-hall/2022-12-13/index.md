@@ -2,7 +2,7 @@
 slug: 22-12-13
 title: December 13th, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -183,7 +183,7 @@ Matthew and Brileigh just released the [new Juicecast episode](https://podcasts.
 
 ![New Juicecast episode](new_juicecast.webp)
 
-Also they posted a comprehensive article about ConstitutionDAO on our blog [here](https://info.juicebox.money/blog/2022-12-13-constitutiondao/).
+Also they posted a comprehensive article about ConstitutionDAO on our blog [here](https://docs.juicebox.money/blog/2022-12-13-constitutiondao/).
 
 ## Forming New Event by Lexicon Devils
 

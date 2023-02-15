@@ -2,7 +2,7 @@
 slug: 23-02-07
 title: February 7th, 2023
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -41,7 +41,7 @@ This project has deployed a few NFTs of Valentine's Day cards so that people can
 
 This project is also a very good demonstration of how to use the function of custom token beneficiary, so just enter another address when you are checking out with the NFTs and then these NFTs will end up in someone else's wallet. 
 
-Except for this project, Matthew and Brileigh have recently finished [a tutorial on how to reconfigure a project](https://info.juicebox.money/user/guides/reconfigure-project/). And they will be making more tutorials and educational materials in the upcoming future.
+Except for this project, Matthew and Brileigh have recently finished [a tutorial on how to reconfigure a project](https://docs.juicebox.money/user/guides/reconfigure-project/). And they will be making more tutorials and educational materials in the upcoming future.
 
 ![a tutorial on how to reconfigure a project](tutorial_reconfig.webp)
 

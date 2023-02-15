@@ -2,7 +2,7 @@
 slug: 22-11-22
 title: JuiceboxDAO 周会概要 2022 年 11 月 23 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 
@@ -126,7 +126,7 @@ Confluence 的主题是“加密货币与气候变化的交汇”，旨在把气
 
 ## 寻宝比赛  by Felixander
 
-Felixander 创办了一个比赛活动，详情参阅他撰写的[这篇博客](https://info.juicebox.money/blog/the-contest-part-1/)。活动的目的是要吸引更多新的或者加密世界外的人加入到我们 Juicebox 社区。
+Felixander 创办了一个比赛活动，详情参阅他撰写的[这篇博客](https://docs.juicebox.money/blog/the-contest-part-1/)。活动的目的是要吸引更多新的或者加密世界外的人加入到我们 Juicebox 社区。
 
 这个比赛实质上是一个寻宝大赛，宝物为一个[以太坊钱包](https://etherscan.io/address/0xf9d30330af73687cda29dfe51479d0eaa05a30fe)，Felixander 和 WAGMI 工作室都投了一些资金进去。目前钱包里有 1.29 ETH，最重要的是里面还有 4 个 Defifa NFT （巴西、阿根廷、法国和葡萄牙），这些 NFT 所代表的球队如果在 2022 年世界杯比赛上能有不俗的战绩，它们可能也会变得价格不菲。
 

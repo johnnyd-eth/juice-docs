@@ -2,7 +2,7 @@
 slug: 22-10-04
 title: JuiceboxDAO 周会概要 2022 年 10 月 05 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 

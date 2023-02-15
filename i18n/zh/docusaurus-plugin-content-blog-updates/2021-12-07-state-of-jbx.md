@@ -7,9 +7,9 @@ tags: [observations]
 
 
 
-*JuiceboxDAO 在 Juicebox 协议上运行其社区金库。它所使用的工具也是向公众开放的。点击[这里](https://info.juicebox.money/blog/juicebox-protocol-tokenomics/)了解协议的代币经济工具箱。*
+*JuiceboxDAO 在 Juicebox 协议上运行其社区金库。它所使用的工具也是向公众开放的。点击[这里](https://docs.juicebox.money/blog/juicebox-protocol-tokenomics/)了解协议的代币经济工具箱。*
  
-*JBX 是 JuiceboxDAO 的成员代币。 它的作用是对各项提案进行投票，以决定 DAO 随着时间的推移应该如何发展。关于在 Juicebox 协议里面每个项目的代币可以通过编程获得的用例，点击[这里](https://info.juicebox.money/user/project/token)进行了解。*
+*JBX 是 JuiceboxDAO 的成员代币。 它的作用是对各项提案进行投票，以决定 DAO 随着时间的推移应该如何发展。关于在 Juicebox 协议里面每个项目的代币可以通过编程获得的用例，点击[这里](https://docs.juicebox.money/user/project/token)进行了解。*
 
 *感谢 Nicholas、Zom_Bae、Zeugh 和 Aeolian 的编辑及反馈。*
 

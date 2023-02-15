@@ -2,7 +2,7 @@
 slug: 22-12-13
 title: JuiceboxDAO 周会概要 2022 年 12 月 14 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 
@@ -235,7 +235,7 @@ Matthew 和 Brileigh 刚刚发布了 [新一期 Juicecast 节目](https://podcas
 
 ![New Juicecast episode](new_juicecast.webp)
 
-他们还在我们的博客上发布了一篇全面介绍 ConstitutionDAO [文章](https://info.juicebox.money/blog/2022-12-13-constitutiondao/)。
+他们还在我们的博客上发布了一篇全面介绍 ConstitutionDAO [文章](https://docs.juicebox.money/blog/2022-12-13-constitutiondao/)。
 
 ## Forming 新活动 by Lexicon Devils
 

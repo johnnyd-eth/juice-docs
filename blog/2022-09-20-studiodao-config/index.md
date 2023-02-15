@@ -2,14 +2,14 @@
 slug: studiodao-config
 title: How StudioDAO and its sub-projects are configured on Juicebox
 description: Building a network of projects on Juicebox.
-image: https://info.juicebox.money/assets/images/studiodao-project-map-6d5d5c17619d9fb95204692d1a46dc99.webp
+image: https://docs.juicebox.money/assets/images/studiodao-project-map-6d5d5c17619d9fb95204692d1a46dc99.webp
 authors: [matthew, brileigh]
 tags: [configuration]
 ---
 
 ***Building a network of projects on Juicebox***
 
-StudioDAO is a decentralized movie studio running on Juicebox. To learn more about how StudioDAO is disrupting the traditional film financing model, check out this [deep dive on the JB blog](https://info.juicebox.money/blog/2022-09-07-studiodao/) as well as episode 9 of the Juicecast with founder [Kenny](https://twitter.com/kenbot) on [Spotify](https://open.spotify.com/episode/7ueh4wW79XFIkTnAxgtiV7?si=3824158b264f4867) and [Apple Podcasts.](https://podcasts.apple.com/us/podcast/ep-9-kenny-from-studiodao/id1623504302?i=1000576149672)
+StudioDAO is a decentralized movie studio running on Juicebox. To learn more about how StudioDAO is disrupting the traditional film financing model, check out this [deep dive on the JB blog](https://docs.juicebox.money/blog/2022-09-07-studiodao/) as well as episode 9 of the Juicecast with founder [Kenny](https://twitter.com/kenbot) on [Spotify](https://open.spotify.com/episode/7ueh4wW79XFIkTnAxgtiV7?si=3824158b264f4867) and [Apple Podcasts.](https://podcasts.apple.com/us/podcast/ep-9-kenny-from-studiodao/id1623504302?i=1000576149672)
 
 In this article, we’ll cover how StudioDAO has created a network to fund multiple film projects with a 10% fee going back to an umbrella project, [StudioDAO Backlot](https://rinkeby.juicebox.money/v2/p/4514). Unlike traditional businesses where money moves with little oversight, when you purchase an NFT to support one of StudioDAO’s projects on Juicebox you can see exactly where funds are being distributed.
 
@@ -52,7 +52,7 @@ Digging further into the project’s config, we can see that the following choic
 
 ### Reserved token allocation 🪙
 
-We can also take a look at how the [Reserved Tokens](https://info.juicebox.money/dev/learn/glossary/reserved-tokens) are split:
+We can also take a look at how the [Reserved Tokens](https://docs.juicebox.money/dev/learn/glossary/reserved-tokens) are split:
 
 - 50% to filmmakers of the project
 - 40% to StudioDAO Community wallet
@@ -82,6 +82,6 @@ As mentioned earlier, all projects discussed in this article are still on Rinkeb
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

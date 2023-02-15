@@ -2,7 +2,7 @@
 slug: 2022-12-06-juicebox-in-the-words-of-felixander
 title: Juicebox in the words of Felixander
 description: Juicebox in the words of... is a series that highlights JB community members in interview form. Learn about members’ roles at JB and what makes them tick.
-image: https://info.juicebox.money/assets/images/jbcover-b36ea7a3885d0bd16a24bb5d5324525a.webp
+image: https://docs.juicebox.money/assets/images/jbcover-b36ea7a3885d0bd16a24bb5d5324525a.webp
 authors: [brileigh, matthew]
 tags: [interview]
 ---

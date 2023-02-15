@@ -48,7 +48,7 @@ The DAO's Gnosis multisig ([0xAF28bcB48C40dBC86f52D459A6562F658fc94B1e](https://
 
 If two proposals have conflicting specifications, the more recently approved proposal takes precedence, but only for that conflicting part. If the conflicting proposals were approved in the same funding cycle, the proposal which received more affirmative votes takes precedence. Unless otherwise specified, proposals are considered effective at the time of their approval on Snapshot. If part of a proposal is impossible to execute as described, the multisig will not execute those parts of the proposal. The multisig may make minor and reasonable modifications to a proposal when interpreting it.
 
-*The multisig has control over JuiceboxDAO treasury parameters and some [onchain protocol parameters](https://info.juicebox.money/dev/learn/administration). The execution of JBX token holder votes depends upon the cooperation of these elected signers. The JuiceboxDAO multisig signers have committed to executing the will of the DAO as expressed by the Governance Process.*
+*The multisig has control over JuiceboxDAO treasury parameters and some [onchain protocol parameters](https://docs.juicebox.money/dev/learn/administration). The execution of JBX token holder votes depends upon the cooperation of these elected signers. The JuiceboxDAO multisig signers have committed to executing the will of the DAO as expressed by the Governance Process.*
 
 #### Step 4 - Reconfiguration Delay
 

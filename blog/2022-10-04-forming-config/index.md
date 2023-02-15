@@ -2,14 +2,14 @@
 slug: forming-config
 title: How FORMING is configured on Juicebox
 description: Running a metaverse concert series on Juicebox.
-image: https://info.juicebox.money/assets/images/FORMING-vol1-2-551106f027bfe4224d7169e5744205f3.webp
+image: https://docs.juicebox.money/assets/images/FORMING-vol1-2-551106f027bfe4224d7169e5744205f3.webp
 authors: [matthew, brileigh]
 tags: [configuration]
 ---
 
 ***How Lexicon Devils is running a metaverse concert series on Juicebox***
 
-[FORMING](https://juicebox.money/v2/p/66) is a metaverse concert series hosted by [Lexicon Devils](https://twitter.com/devils_lexicon) for Juicebox. To learn more about how Lexicon Devils is building the metaverse and getting paid to do it, check out this [deep dive on the JB blog](https://info.juicebox.money/blog/2022-07-14-lexicon-devils) as well as episode 8 of the Juicecast with [Wackozacco](https://twitter.com/wackozacco420) and [Peacenode](https://twitter.com/peace_node) on [Spotify](https://open.spotify.com/episode/3dVbEegY8abnQSbejulgiL?si=9f3a2106287d4a59) and [Apple Podcasts](https://podcasts.apple.com/ca/podcast/ep-8-peacenode-and-wackozacco-from-lexicon-devils/id1599885493?i=1000569582815). You can also check out [this configuration article](https://info.juicebox.money/blog/2022-09-27-lexicon-devils-config) to learn how Lexicon Devils configured their [project on Juicebox](https://juicebox.money/p/lexicondevils) to receive payments for services rendered and distribute funds to contributors for their work.
+[FORMING](https://juicebox.money/v2/p/66) is a metaverse concert series hosted by [Lexicon Devils](https://twitter.com/devils_lexicon) for Juicebox. To learn more about how Lexicon Devils is building the metaverse and getting paid to do it, check out this [deep dive on the JB blog](https://docs.juicebox.money/blog/2022-07-14-lexicon-devils) as well as episode 8 of the Juicecast with [Wackozacco](https://twitter.com/wackozacco420) and [Peacenode](https://twitter.com/peace_node) on [Spotify](https://open.spotify.com/episode/3dVbEegY8abnQSbejulgiL?si=9f3a2106287d4a59) and [Apple Podcasts](https://podcasts.apple.com/ca/podcast/ep-8-peacenode-and-wackozacco-from-lexicon-devils/id1599885493?i=1000569582815). You can also check out [this configuration article](https://docs.juicebox.money/blog/2022-09-27-lexicon-devils-config) to learn how Lexicon Devils configured their [project on Juicebox](https://juicebox.money/p/lexicondevils) to receive payments for services rendered and distribute funds to contributors for their work.
 
 ![Attendees repping sick wearables at FORMING vol. 1](FORMING-vol1-1.webp)
 
@@ -91,6 +91,6 @@ In addition to hilarious skits performed by [Darby](https://twitter.com/darbytra
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

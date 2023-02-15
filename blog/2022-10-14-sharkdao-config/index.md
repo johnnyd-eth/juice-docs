@@ -2,7 +2,7 @@
 slug: sharkdao-config
 title: SharkDAO - Building your wings on the way down
 description: SharkDAO's flexible use of protocol allowed it to adapt as it grew.
-image: https://info.juicebox.money/assets/images/shark-hero-bubble-942f583e91ecfb17c91df7761dd7c39d.svg
+image: https://docs.juicebox.money/assets/images/shark-hero-bubble-942f583e91ecfb17c91df7761dd7c39d.svg
 authors: [felixander]
 tags: [highlight, configuration]
 ---

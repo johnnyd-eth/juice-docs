@@ -7,7 +7,7 @@ tags: [contest]
 
 # The Contest - The Poem
 
-New around here? [Check out contest rules and tips!](https://info.juicebox.money/misc/the-contest/)
+New around here? [Check out contest rules and tips!](https://docs.juicebox.money/misc/the-contest/)
 
 Curious reader,
 

@@ -2,7 +2,7 @@
 slug: 23-01-17
 title: January 17th, 2023
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
@@ -63,7 +63,7 @@ Also their project is open source, so anyone wants to use Juicebox NFTs as payme
 
 Jango thought the Banny AI generator in our Banny Warhol channel made by them is working great, and he was excited to figure out how to play with business models in this respect.  Jmill suggested that maybe we could integrate Banny Warhol AI generator into Juicebox's create flow, so that when project creators want to deploy an NFT but they don't have a JPEG, they can describe something and get a Banny version of it throught the AI generator.
 
-Jmill and Genekogan came to our town hall introducing Banny Warhol last December, read [here](https://info.juicebox.money/town-hall/22-12-13/#banny-warhol-with-jmill-and-genekogan).
+Jmill and Genekogan came to our town hall introducing Banny Warhol last December, read [here](https://docs.juicebox.money/town-hall/22-12-13/#banny-warhol-with-jmill-and-genekogan).
 
 ## Contest by Felixander
 

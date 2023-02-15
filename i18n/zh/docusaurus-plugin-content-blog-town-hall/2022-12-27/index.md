@@ -2,7 +2,7 @@
 slug: 22-12-27
 title: JuiceboxDAO 周会概要 2022 年 12 月 28 日
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [dao, town hall, news]
 ---
 
@@ -41,7 +41,7 @@ Filipv 认为我们可以讨论决定一些重点关注的领域，这样就可�
 
 上周 Filipv 在周会上演示了他开发的基于 [Sapana](https://sapana.io) 的项目搜索功能，Peri 在这个基础上作了一些调整并提交了一个 PR。这个项目搜索功能应该很快会在我们的前端界面实现。
 
-通过 Acidicsantana 和 Filipv 的努力，我们提交了一个关于搜索引擎优化的一个 PR。实现的话，info.juicebox.money 及 Juicebox.money 的搜索结果将会慢慢得到改善。
+通过 Acidicsantana 和 Filipv 的努力，我们提交了一个关于搜索引擎优化的一个 PR。实现的话，docs.juicebox.money 及 Juicebox.money 的搜索结果将会慢慢得到改善。
 
 ## Forming 工作报告 Darbytrash
 

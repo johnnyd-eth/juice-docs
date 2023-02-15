@@ -11,7 +11,7 @@ title: Use Juicebox via Etherscan
 ![](Untitled%203.webp)
 
 :::tip
-If you are not already familiar with project parameters, read the [Programmable treasury guide](https://info.juicebox.money/dev/build/programmable-treasury) and the [`launchProjectFor`](https://info.juicebox.money/dev/api/contracts/or-controllers/jbcontroller/write/launchprojectfor) docs.
+If you are not already familiar with project parameters, read the [Programmable treasury guide](https://docs.juicebox.money/dev/build/programmable-treasury) and the [`launchProjectFor`](https://docs.juicebox.money/dev/api/contracts/or-controllers/jbcontroller/write/launchprojectfor) docs.
 :::
 
 3. Once the transaction has been confirmed, visit [juicebox.money](https://juicebox.money/#/projects?tab=myprojects) to find your project.
@@ -26,7 +26,7 @@ If you are not already familiar with project parameters, read the [Programmable 
 
 
 :::tip
-If you are not already familiar with project parameters, read the [Programmable treasury guide](https://info.juicebox.money/dev/build/programmable-treasury) and the [`reconfigureFundingCyclesOf`](/dev/api/contracts/or-controllers/jbcontroller/write/reconfigurefundingcyclesof) docs.
+If you are not already familiar with project parameters, read the [Programmable treasury guide](https://docs.juicebox.money/dev/build/programmable-treasury) and the [`reconfigureFundingCyclesOf`](/dev/api/contracts/or-controllers/jbcontroller/write/reconfigurefundingcyclesof) docs.
 :::
 
 3. Once the transaction has been confirmed, visit [juicebox.money](https://juicebox.money/#/projects?tab=myprojects) to verify your reconfiguration.

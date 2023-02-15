@@ -14,7 +14,7 @@ tags: [update]
 
 *If you held JBX before 2022-02-23 and have not done so already, [claim your JBX](https://airdrop.juicebox.money/)!*
 
-We've seen some super interesting results from the [Juicebox Benefits Airdrop](https://info.juicebox.money/blog/juicebox-benefits-program-explained) which launched last month. [ARCx](https://arcx.money/) has worked with us to collate and summarise some preliminary findings from the airdrop. Results below!
+We've seen some super interesting results from the [Juicebox Benefits Airdrop](https://docs.juicebox.money/blog/juicebox-benefits-program-explained) which launched last month. [ARCx](https://arcx.money/) has worked with us to collate and summarise some preliminary findings from the airdrop. Results below!
 
 ## Definitions
 

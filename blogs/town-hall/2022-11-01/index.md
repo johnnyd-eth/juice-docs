@@ -2,7 +2,7 @@
 slug: 22-11-01
 title: November 1st, 2022
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 

@@ -11,7 +11,7 @@ sidebar_position: 8
 | --------------------------------------------------- | --------------------------- |
 | [Discord](https://discord.gg/juicebox)              | jango, filipv & nnnnicholas |
 | [Twitter](https://twitter.com/juiceboxETH)          | jango                       |
-| [Blog](https://info.juicebox.money/blog)            | filipv                      |
+| [Blog](https://docs.juicebox.money/blog)            | filipv                      |
 | [Podcast](https://anchor.fm/thejuicecast)           | Brileigh & Matthew          |
 | [YouTube](https://youtube.com/c/juiceboxdao)        | filipv                      |
 | [Newletter](https://juicenews.beehiiv.com)          | Brileigh & Matthew          |

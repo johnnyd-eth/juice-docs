@@ -8,7 +8,7 @@ tags: [contest]
 
 # The Contest - Part 2
 
-New around here? [Check out contest rules and tips!](https://info.juicebox.money/misc/the-contest/)
+New around here? [Check out contest rules and tips!](https://docs.juicebox.money/misc/the-contest/)
 
 Want some cool music that vibes with these parts of the story? Who knows, you may find some clues in the lyrics ; )
 

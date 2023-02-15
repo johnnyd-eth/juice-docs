@@ -2,7 +2,7 @@
 slug: v3-migration
 title: How to migrate a Juicebox project from V1/V2 to V3
 description: Tutorial on how to migrate your Juicebox project from V1 or V2 to V3
-image: https://info.juicebox.money/assets/images/banny-migrations-v3-juicebox-62bee6c17e1d1775d18b4b6d1ee5f9c6.webp
+image: https://docs.juicebox.money/assets/images/banny-migrations-v3-juicebox-62bee6c17e1d1775d18b4b6d1ee5f9c6.webp
 authors: [brileigh, matthew, 0xstvg]
 tags: [guide]
 ---
@@ -80,7 +80,7 @@ These token settings are turned off by default. If you’re not sure what to do,
 
 ### Step 5: NFTs (Optional)
 
-Here you have the option to add NFTs to your Juicebox project so contributors can receive an NFT if they meet your minimum funding criteria. You can add as many NFTs as you want and determine the supply and price of each NFT. Next you’ll add a `Collection Name` and `Collection Symbol`, as well as an optional description of the NFTs.  If you’re not ready, you can always add NFTs later on. You can also check out [this tutorial](https://info.juicebox.money/blog/2023-01-02-how-to-sell-nfts/) on how to use NFTs. When you’re done, click `Save NFTs`. 
+Here you have the option to add NFTs to your Juicebox project so contributors can receive an NFT if they meet your minimum funding criteria. You can add as many NFTs as you want and determine the supply and price of each NFT. Next you’ll add a `Collection Name` and `Collection Symbol`, as well as an optional description of the NFTs.  If you’re not ready, you can always add NFTs later on. You can also check out [this tutorial](https://docs.juicebox.money/blog/2023-01-02-how-to-sell-nfts/) on how to use NFTs. When you’re done, click `Save NFTs`. 
 
 ![nfts](nfts.webp)
 
@@ -113,6 +113,6 @@ If you need help along the way, jump into the [Support channel](https://discord
 
 🚀 [Trending projects on Juicebox](https://juicebox.money/projects)
 
-📚 [Project Creator Docs](https://info.juicebox.money/user/)
+📚 [Project Creator Docs](https://docs.juicebox.money/user/)
 
 📹 [YouTube Tutorials](https://www.youtube.com/c/JuiceboxDAO)

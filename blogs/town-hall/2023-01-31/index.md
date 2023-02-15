@@ -2,7 +2,7 @@
 slug: 23-01-31
 title: January 31st, 2023
 authors: [zhape]
-image: https://info.juicebox.money/img/townhall.webp
+image: https://docs.juicebox.money/img/townhall.webp
 tags: [town-hall]
 ---
 
