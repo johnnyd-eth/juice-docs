@@ -42,7 +42,13 @@ Build with:
 yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service. We're hosting Juice Docs on [Fleek](https://fleek.co/) with [continuous deployment](https://docs.fleek.co/hosting/site-deployment/).
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Hosting
+
+We're hosting Juice Docs on Peel's [Vercel](https://vercel.com/). If you have any questions, ask in the [Peel Discord](https://discord.gg/XvmfY4Hkcz).
+
+To minimize unecessary builds, either make a PR or push all of your commits at once.
 
 ### Contributing
 
