@@ -14,7 +14,7 @@
 
 # Website
 
-[Juice Docs](https://info.juicebox.money) contains documentation for the [Juicebox protocol](https://github.com/jbx-protocol/juice-contracts-v3) and [juicebox.money](https://juicebox.money). Juice Docs is built with [Docusaurus 2](https://docusaurus.io/).
+[Juice Docs](https://docs.juicebox.money) contains documentation for the [Juicebox protocol](https://github.com/jbx-protocol/juice-contracts-v3) and [juicebox.money](https://juicebox.money). Juice Docs is built with [Docusaurus 2](https://docusaurus.io/).
 
 ### Installation
 
@@ -52,13 +52,13 @@ To minimize unecessary builds, either make a PR or push all of your commits at o
 
 ### Contributing
 
-Juice Docs are funded and built by JuiceboxDAO. You can contribute by making a pull request. If you're interested in getting more involved, read our [Contribution Guide](https://info.juicebox.money/dao/contribute/).
+Juice Docs are funded and built by JuiceboxDAO. You can contribute by making a pull request. If you're interested in getting more involved, read our [Contribution Guide](https://docs.juicebox.money/dao/contribute/).
 
 Juice Docs are built with [Markdown](https://www.markdownguide.org/cheat-sheet/), making it easy for anybody to contribute. If you can read this, you can help!
 
 ### Static Files
 
-Files in the `static` directory will be accessible from the base URL. For example, you can access the file in `static/img/townhall.webp` at [`https://info.juicebox.money/img/townhall.webp`](https://info.juicebox.money/img/townhall.webp).
+Files in the `static` directory will be accessible from the base URL. For example, you can access the file in `static/img/townhall.webp` at [`https://docs.juicebox.money/img/townhall.webp`](https://docs.juicebox.money/img/townhall.webp).
 
 ### Images
 
