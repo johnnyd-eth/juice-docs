@@ -11,9 +11,8 @@ The key change here is from "Funding Cycle" to **Cycle**. This is among the most
 | Funding Cycle | Cycle | "Funding" doesn't add much to this understanding. |
 | Funding Cycle Configuration | Cycle Rules | General term for hard-coded, contractual rules associated with a Cycle. |
 | Funding Cycle Configuration | Project Settings | General term for project metadata and other settings which can be changed at any time. **These should be made distinct from contractual Cycle constraints.** |
-| Reconfiguration | (Rule) Revision | "Reconfiguration" is a mouth-full, and doesn't convey much. |
-| Reconfigured a Funding Cycle | Revised Cycle Rules | Same reasoning. |
-| Reconfiguration Rules | Revision Deadline | A little clearer since we only use deadline-style ballots for now. Eventually, we can expand this concept to "Revision Constraints". |
+| Reconfigured a Funding Cycle | Edited Cycle Rules | "Reconfiguration" is a mouth-full, and doesn't convey much. |
+| Reconfiguration Rules | Rule Edit Deadline | A little clearer since we only use deadline-style ballots for now. Eventually, we can expand this concept to "Rule Edit Constraints". |
 
 ## Payouts
 
