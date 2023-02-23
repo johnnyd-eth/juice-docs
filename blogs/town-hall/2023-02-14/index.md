@@ -54,7 +54,7 @@ And then in the `project-handle` branch of this repository, people can call a sl
 
 Jango had been playing with this template this week. He wanted to make it an auto generating terminal for Defifa NFTs, so that anyone can use and create their own tournament. We can start showing data on the NFTs and customizing it with Peri's on-chain fonts. He thought that it is a very cool and useful tool, especially on a data heavy protocol as Juicebox, quickly visualizing data on the NFTs will be a great default for many projects.
 
-![svg template examples by jango](svg_template.png)
+![svg template examples by jango](svg_template.webp)
 
 Nicholas added that it will be also really cool for NFT projects to be able to have their token metadata directly served from blockchains, so that if Juicebox.money or whatever stops pinning their IPFS, the NFTs won't disappear. It will also be super cool for projects that want to be more autonomous or founders that want to keep their anonymity. 
 
@@ -64,7 +64,7 @@ Last week Filipv reported and shared some things in our announcements channel, a
 
 JuiceboxDAO has no connection with MovementDAO aside from some contributors work at both entities and MovementDAO forked some of open source code of Juicebox.
 
-![announcement about tankbottoms](announcement_tank.png)
+![announcement about tankbottoms](announcement_tank.webp)
 
 Taking a step back from this particular instance and reflecting on how as a DAO member sees with this proposal and contributor cadence that we're currently accustoming ourselves to, Jango wanted to reflect on what had happened and how it had happened, then to reflect on what we can be doing to learn from things in order to avoid things bad happen to us and to recognize things that going well and looking good.
 
@@ -114,11 +114,11 @@ There are a few reasons why this would be useful.
 
 0xBA5ED made a demo of minting an NFT on Juicebox without needing to pay gas or make transaction himself. Here is [the link to his experiment](https://demo.ba5ed.com/) on Goerli testnet.
 
-![opengsn demo by 0xba5ed](opengsn_mint.png)
+![opengsn demo by 0xba5ed](opengsn_mint.webp)
 
 For people who may find this a bit scary, 0xBA5ED also added and option of "Mint with burner wallet", which would just create a burner wallet in the browser and then perform the transaction with it. Nothing need to be signed in this case.
 
-![opengsn demo by 0xba5ed with burner wallet](opengsn_mint_burnerwallet.png)
+![opengsn demo by 0xba5ed with burner wallet](opengsn_mint_burnerwallet.webp)
 
 This is a good example of how the `distribute` function on Juicebox could work. Currently the distribution of payouts on Juicebox projects need to be triggered by someone clicking the `distribute` button, and this person will have to pay the gas of this transaction and may or may not get refunded from the project treasury later on. By this "Mint with burner wallet", in theory someone can just click `distribute`, the browser will make a burner wallet, sign the transaction and send it to a relayer to put it on-chain, at the expense of the project treasury. 
 
@@ -132,7 +132,7 @@ Lexicon Devils will be holding their next volume of Forming in collaboration wit
 
 There is another very exciting thing revealved in [the Forming Juicebox project](https://juicebox.money/@forming), an idea that Lexicon Devils have been toying with for a while. From this volume on, they are going to launch the new Forming Record Store NFT collectibles every month, which will be the personalized NFTs for each artist going to perform in the Forming event of that month. And as usual, all the artists on the event will be set as the beneficiaries of distribution, all the funds in Forming project treasury will be distributed to the artists after the event.
 
-![Forming project record store NFT](forming_emanate_NFT.png)
+![Forming project record store NFT](forming_emanate_NFT.webp)
 
 ## Banny Valentines by Matthew and Brileigh
 
@@ -140,8 +140,8 @@ Matthew and Brileigh created a [Banny Valentines project](https://juicebox.money
 
 If people want to buy one of these NFTs and have it sent to someone else, they can turn on the option of "Custom token beneficiary" in the pop-up payment window and put in the intended recipient's ENS or wallet address. After the payment is made, the NFT will end up in the hands of that recipient.
 
-![custom tone beneficiary](custom_token_beneficiary.png)
+![custom tone beneficiary](custom_token_beneficiary.webp)
 
 And we've just implemented a new functionality in the front end. If the custom token beneficiary is enabled at the time of payment, the caller and the token recipient of that transaction will be both shown in the project's activity feed.
 
-![activity feed of custom token beneficiary](activityfeed_caller_recipient.png)
+![activity feed of custom token beneficiary](activityfeed_caller_recipient.webp)

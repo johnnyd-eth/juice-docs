@@ -1,8 +1,9 @@
 ---
+title: Foundation
 sidebar_position: 2
 ---
 
-# Juicebox DAO Foundation
+# JuiceboxDAO Foundation
 
 #### Mission statement
 

@@ -1,6 +1,6 @@
 ---
 title: Services List
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 Some of the services utilized by JuiceboxDAO and Peel, as well as who to contact in the event that something goes wrong with them. For services which mention Peel, check [their Discord](https://discord.gg/7NmqDwGhn2).
