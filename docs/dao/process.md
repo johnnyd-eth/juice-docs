@@ -1,8 +1,9 @@
 ---
+title: Governance Process
 sidebar_position: 3
 ---
 
-# Governance Process
+# JuiceboxDAO Governance Process
 
 *JuiceboxDAO governance runs on a 14 day cycle.* 
 

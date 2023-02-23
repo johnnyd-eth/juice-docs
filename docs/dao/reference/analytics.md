@@ -1,6 +1,6 @@
 ---
 title: Our Analytics
-sidebar_position: 9
+sidebar_position: 3
 ---
 
 JuiceboxDAO analytics. Can't find what you're looking for? [Contact us](https://juicebox.money/contact)!

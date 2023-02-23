@@ -1,6 +1,6 @@
 ---
 title: Media Guidelines
-sidebar_position: 8
+sidebar_position: 2
 ---
 
 # JuiceboxDAO Media Guidelines
